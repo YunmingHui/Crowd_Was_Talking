@@ -1,0 +1,2001 @@
+stock_id,ticker,cik,company,mentions
+control:GOOGL,GOOGL,1652044,Alphabet Inc.,17063
+control:AVGO,AVGO,1730168,Broadcom Inc.,2329
+control:XOM,XOM,2115436,ExxonMobil Holdings Corp,20397
+control:CSCO,CSCO,858877,"CISCO SYSTEMS, INC.",8540
+control:AMAT,AMAT,6951,APPLIED MATERIALS INC /DE,3885
+control:PANW,PANW,1327567,Palo Alto Networks Inc,1382
+control:CRWD,CRWD,1535527,"CrowdStrike Holdings, Inc.",11346
+control:SHEL,SHEL,1306965,Shell plc,103
+control:ANET,ANET,1596532,"Arista Networks, Inc.",638
+control:RTNTF,RTNTF,887028,RIO TINTO LTD,541
+control:TTE,TTE,879764,TotalEnergies SE,81
+control:TMUS,TMUS,1283699,"T-Mobile US, Inc.",1946
+control:UNP,UNP,100885,UNION PACIFIC CORP,963
+control:IBKR,IBKR,1381197,"Interactive Brokers Group, Inc.",26120
+control:GLW,GLW,24741,CORNING INC /NY,1061
+control:ACN,ACN,1467373,Accenture plc,1110
+control:MDT,MDT,1613103,Medtronic plc,1933
+control:EQIX,EQIX,1101239,EQUINIX INC,835
+control:VRT,VRT,1674101,Vertiv Holdings Co,491
+control:SNPS,SNPS,883241,SYNOPSYS INC,691
+control:JCI,JCI,833444,Johnson Controls International plc,489
+control:ABNB,ABNB,1559720,"Airbnb, Inc.",21910
+control:IFNNY,IFNNY,1107457,INFINEON TECHNOLOGIES AG,50
+control:HPE,HPE,1645590,Hewlett Packard Enterprise Co,1485
+control:ADBE,ADBE,796343,ADOBE INC.,7482
+control:MNST,MNST,865752,Monster Beverage Corp,754
+control:LYG,LYG,1160106,Lloyds Banking Group plc,227
+control:SHW,SHW,89800,SHERWIN WILLIAMS CO,1156
+control:CMCSA,CMCSA,1166691,COMCAST CORP,4089
+control:ITW,ITW,49826,ILLINOIS TOOL WORKS INC,400
+control:SPG,SPG,1063761,SIMON PROPERTY GROUP INC.,3914
+control:NTES,NTES,1110646,"NetEase, Inc.",480
+control:EOG,EOG,821189,EOG RESOURCES INC,995
+control:REGN,REGN,872589,"REGENERON PHARMACEUTICALS, INC.",1844
+control:TRV,TRV,86312,"TRAVELERS COMPANIES, INC.",532
+control:CNI,CNI,16868,CANADIAN NATIONAL RAILWAY CO,242
+control:NSC,NSC,702165,NORFOLK SOUTHERN CORP,536
+control:NBIS,NBIS,1513845,Nebius Group N.V.,1
+control:FDX,FDX,1048911,FEDEX CORP,14348
+control:RSG,RSG,1060391,"REPUBLIC SERVICES, INC.",509
+control:MSTR,MSTR,1050446,Strategy Inc,2508
+control:APD,APD,2969,"Air Products & Chemicals, Inc.",670
+control:TDG,TDG,1260221,TransDigm Group INC,526
+control:CSLLY,CSLLY,1274152,CSL LTD,14
+control:RELX,RELX,929869,RELX PLC,16
+control:UMC,UMC,1033767,UNITED MICROELECTRONICS CORP,1557
+control:ARGX,ARGX,1697862,ARGENX SE,38
+control:AON,AON,315293,Aon plc,528
+control:GWLIF,GWLIF,850918,GREAT-WEST LIFECO INC.,2
+control:CRH,CRH,849395,CRH PUBLIC LTD CO,86
+control:DVN,DVN,1090012,DEVON ENERGY CORP/DE,1122
+control:VYLR,VYLR,2128626,Vylor Inc.,0
+control:SMTOY,SMTOY,95227,SUMITOMO ELECTRIC INDUSTRIES LTD/ADR/,0
+control:HONA,HONA,2089271,Honeywell Aerospace Inc.,3
+control:WAB,WAB,943452,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,503
+control:BDX,BDX,10795,BECTON DICKINSON & CO,580
+control:STT,STT,93751,STATE STREET CORP,455
+control:RKLB,RKLB,1819994,Rocket Lab Corp,4349
+control:PYPL,PYPL,1633917,"PayPal Holdings, Inc.",42295
+control:FITB,FITB,35527,FIFTH THIRD BANCORP,482
+control:VEEV,VEEV,1393052,VEEVA SYSTEMS INC,797
+control:XEL,XEL,72903,XCEL ENERGY INC,526
+control:TYHOY,TYHOY,2018139,Toyota Tsusho Corporation/ADR,0
+control:CCEP,CCEP,1650107,COCA-COLA EUROPACIFIC PARTNERS plc,29
+control:INFY,INFY,1067491,Infosys Ltd,549
+control:RVMD,RVMD,1628171,"Revolution Medicines, Inc.",18
+control:HEI,HEI,46619,HEICO CORP,136
+control:MSCI,MSCI,1408198,MSCI Inc.,2785
+control:LYV,LYV,1335258,"Live Nation Entertainment, Inc.",2770
+control:VOD,VOD,839923,VODAFONE GROUP PUBLIC LTD CO,479
+control:SYY,SYY,96021,SYSCO CORP,1506
+control:CBRE,CBRE,1138118,"CBRE GROUP, INC.",675
+control:PCG,PCG,1004980,PG&E Corp,6551
+control:SHG,SHG,1263043,SHINHAN FINANCIAL GROUP CO LTD,65
+control:EME,EME,105634,"EMCOR Group, Inc.",56
+control:FRFHF,FRFHF,915191,FAIRFAX FINANCIAL HOLDINGS LTD/ CAN,23
+control:WEC,WEC,783325,"WEC ENERGY GROUP, INC.",389
+control:TKO,TKO,1973266,"TKO Group Holdings, Inc.",154
+control:BIIB,BIIB,875045,BIOGEN INC.,3359
+control:RKT,RKT,1805284,"Rocket Companies, Inc.",101538
+control:RPRX,RPRX,1802768,Royalty Pharma plc,215
+control:ESLT,ESLT,1027664,ELBIT SYSTEMS LTD,78
+control:VMC,VMC,1396009,Vulcan Materials CO,561
+control:JBL,JBL,898293,JABIL INC,218
+control:RMD,RMD,943819,RESMED INC,650
+control:EXPE,EXPE,1324424,"Expedia Group, Inc.",3187
+control:BAP,BAP,1001290,CREDICORP LTD,51
+control:RJF,RJF,720005,RAYMOND JAMES FINANCIAL INC,368
+control:ALNY,ALNY,1178670,"ALNYLAM PHARMACEUTICALS, INC.",60
+control:GEHC,GEHC,1932393,GE HealthCare Technologies Inc.,2
+control:MDB,MDB,1441816,"MongoDB, Inc.",1713
+control:TDY,TDY,1094285,TELEDYNE TECHNOLOGIES INC,205
+control:HPQ,HPQ,47217,HP INC,3002
+control:UNVGY,UNVGY,1890126,Universal Music Group N.V./ADR,0
+control:WSM,WSM,719955,WILLIAMS SONOMA INC,401
+control:KGC,KGC,701818,KINROSS GOLD CORP,1165
+control:KBGGY,KBGGY,1535759,Kongsberg Gruppen ASA/ADR,0
+control:SYM,SYM,1837240,Symbotic Inc.,26
+control:TRMOY,TRMOY,2071881,Tourmaline Oil Corp/ADR,0
+control:ENTG,ENTG,1101302,ENTEGRIS INC,118
+control:CPRT,CPRT,900075,COPART INC,571
+control:ASTS,ASTS,1780312,"AST SpaceMobile, Inc.",6920
+control:PFG,PFG,1126328,PRINCIPAL FINANCIAL GROUP INC,408
+control:ULTA,ULTA,1403568,"Ulta Beauty, Inc.",5071
+control:CASY,CASY,726958,CASEYS GENERAL STORES INC,78
+control:DLTR,DLTR,935703,"DOLLAR TREE, INC.",1730
+control:XPO,XPO,1166003,"XPO, Inc.",420
+control:CRCL,CRCL,1876042,"Circle Internet Group, Inc.",16
+control:PTC,PTC,857005,PTC INC.,106
+control:RIVN,RIVN,1874178,"Rivian Automotive, Inc. / DE",6831
+control:EIX,EIX,827052,EDISON INTERNATIONAL,1539
+control:SOFI,SOFI,1818874,"SoFi Technologies, Inc.",26372
+control:YPF,YPF,904851,YPF SOCIEDAD ANONIMA,78
+control:SOAGY,SOAGY,1715801,Sartorius AG/ADR,0
+control:RGLD,RGLD,85535,ROYAL GOLD INC,71
+control:NTNX,NTNX,1618732,"Nutanix, Inc.",564
+control:CRS,CRS,17843,CARPENTER TECHNOLOGY CORP,210
+control:AMCR,AMCR,1748790,Amcor plc,462
+control:FSLR,FSLR,1274494,"FIRST SOLAR, INC.",1532
+control:PAAS,PAAS,771992,PAN AMERICAN SILVER CORP,570
+control:SNA,SNA,91440,Snap-on Inc,483
+control:LYB,LYB,1489393,LyondellBasell Industries N.V.,472
+control:SQM,SQM,909037,CHEMICAL & MINING CO OF CHILE INC,354
+control:BEKE,BEKE,1809587,KE Holdings Inc.,328
+control:ZBRA,ZBRA,877212,ZEBRA TECHNOLOGIES CORP,497
+control:EVRG,EVRG,1711269,"Evergy, Inc.",395
+control:SBAC,SBAC,1034054,SBA COMMUNICATIONS CORP,513
+control:APG,APG,1796209,APi Group Corp,65
+control:CDE,CDE,215466,"Coeur Mining, Inc.",440
+control:IONQ,IONQ,1824920,"IonQ, Inc.",1980
+control:GPC,GPC,40987,GENUINE PARTS CO,460
+control:TPG,TPG,1880661,TPG Inc.,252
+control:FTV,FTV,1659166,Fortive Corp,440
+control:FIS,FIS,1136893,"Fidelity National Information Services, Inc.",620
+control:WTKWY,WTKWY,861967,WOLTERS KLUWER N V /FI,1
+control:TSCO,TSCO,916365,TRACTOR SUPPLY CO /DE/,692
+control:CLH,CLH,822818,CLEAN HARBORS INC,48
+control:IREN,IREN,1878848,IREN Ltd,23
+control:RCI,RCI,733099,ROGERS COMMUNICATIONS INC,99
+control:GFL,GFL,1780232,GFL Environmental Inc.,136
+control:NWSA,NWSA,1564708,NEWS CORP,376
+control:UNM,UNM,5513,Unum Group,476
+control:ROL,ROL,84839,ROLLINS INC,471
+control:OHI,OHI,888491,OMEGA HEALTHCARE INVESTORS INC,180
+control:BEP,BEP,1533232,Brookfield Renewable Partners L.P.,1616
+control:CHTR,CHTR,1091667,"CHARTER COMMUNICATIONS, INC. /MO/",506
+control:SKM,SKM,1015650,SK TELECOM CO LTD,73
+control:JLL,JLL,1037976,JONES LANG LASALLE INC,71
+control:MLI,MLI,89439,MUELLER INDUSTRIES INC,14
+control:DFKUY,DFKUY,1762831,"Daifuku Co., Ltd./ADR",0
+control:SMMT,SMMT,1599298,Summit Therapeutics Inc.,39
+control:RNR,RNR,913144,RENAISSANCERE HOLDINGS LTD,14
+control:EMBJ,EMBJ,1355444,EMBRAER S.A.,2
+control:BWXT,BWXT,1486957,"BWX Technologies, Inc.",186
+control:AMKR,AMKR,1047127,"AMKOR TECHNOLOGY, INC.",319
+control:HTHT,HTHT,1483994,H World Group Ltd,261
+control:CACI,CACI,16058,CACI INTERNATIONAL INC /DE/,75
+control:JBS,JBS,1791942,JBS N.V.,48
+control:CORT,CORT,1088856,CORCEPT THERAPEUTICS INC,80
+control:LII,LII,1069202,LENNOX INTERNATIONAL INC,167
+control:CNA,CNA,21175,CNA FINANCIAL CORP,267
+control:BTSG,BTSG,1865782,"BrightSpring Health Services, Inc.",0
+control:SJM,SJM,91419,J M SMUCKER Co,680
+control:UDR,UDR,74208,"UDR, Inc.",361
+control:RMBS,RMBS,917273,RAMBUS INC,308
+control:EHC,EHC,785161,Encompass Health Corp,19
+control:HBM,HBM,1322422,Hudbay Minerals Inc.,89
+control:QNT,QNT,2110105,Quantinuum Inc.,42
+control:BLMOY,BLMOY,2109234,BELIMO Holding AG/ADR,0
+control:ELS,ELS,895417,EQUITY LIFESTYLE PROPERTIES INC,67
+control:CCK,CCK,1219601,"CROWN HOLDINGS, INC.",66
+control:CSGP,CSGP,1057352,"COSTAR GROUP, INC.",170
+control:SNN,SNN,845982,SMITH & NEPHEW PLC,58
+control:FRHC,FRHC,924805,Freedom Holding Corp.,42
+control:WTRG,WTRG,78128,"Essential Utilities, Inc.",39
+control:HMY,HMY,1023514,HARMONY GOLD MINING CO LTD,133
+control:GSAT,GSAT,1366868,"Globalstar, Inc.",7746
+control:TXRH,TXRH,1289460,"Texas Roadhouse, Inc.",527
+control:KNX,KNX,1492691,Knight-Swift Transportation Holdings Inc.,86
+control:CHYM,CHYM,1795586,"Chime Financial, Inc.",0
+control:EGP,EGP,49600,EASTGROUP PROPERTIES INC,26
+control:HII,HII,1501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",598
+control:DCI,DCI,29644,DONALDSON Co INC,65
+control:GMED,GMED,1237831,GLOBUS MEDICAL INC,1652
+control:VSAT,VSAT,797721,VIASAT INC,314
+control:AGNC,AGNC,1423689,AGNC Investment Corp.,776
+control:BNT,BNT,1837429,Brookfield Wealth Solutions Ltd.,28
+control:JKHY,JKHY,779152,JACK HENRY & ASSOCIATES INC,402
+control:RTO,RTO,930157,RENTOKIL INITIAL PLC /FI,110
+control:ENSG,ENSG,1125376,"ENSIGN GROUP, INC",104
+control:OSCR,OSCR,1568651,"Oscar Health, Inc.",206
+control:MXL,MXL,1288469,"MAXLINEAR, INC",19
+control:PSO,PSO,938323,PEARSON PLC,347
+control:SOLS,SOLS,2064953,Solstice Advanced Materials Inc.,34
+control:KRYS,KRYS,1711279,"Krystal Biotech, Inc.",28
+control:ONB,ONB,707179,OLD NATIONAL BANCORP /IN/,22
+control:OGE,OGE,1021635,OGE ENERGY CORP.,61
+control:QGEN,QGEN,1015820,QIAGEN N.V.,210
+control:TFII,TFII,1588823,TFI International Inc.,31
+control:CTVA,CTVA,1755672,"Corteva, Inc.",507
+control:AXSM,AXSM,1579428,"Axsome Therapeutics, Inc.",422
+control:BRKR,BRKR,1109354,BRUKER CORP,45
+control:ESI,ESI,1590714,Element Solutions Inc,71
+control:SAIA,SAIA,1177702,SAIA INC,43
+control:AYI,AYI,1144215,ACUITY INC. (DE),68
+control:TIMB,TIMB,1826168,TIM S.A.,2
+control:LTH,LTH,1869198,"Life Time Group Holdings, Inc.",100
+control:YMM,YMM,1838413,Full Truck Alliance Co. Ltd.,39
+control:ARWR,ARWR,879407,"ARROWHEAD PHARMACEUTICALS, INC.",1030
+control:IDCC,IDCC,1405495,"InterDigital, Inc.",58
+control:KERCY,KERCY,2107989,Keisei Electric Railway Co. Ltd/ADR,0
+control:CTRE,CTRE,1590717,"CareTrust REIT, Inc.",54
+control:CYTK,CYTK,1061983,CYTOKINETICS INC,56
+control:PNR,PNR,77360,PENTAIR plc,414
+control:PCOR,PCOR,1611052,"PROCORE TECHNOLOGIES, INC.",43
+control:BVN,BVN,1013131,BUENAVENTURA MINING CO INC,36
+control:PCTY,PCTY,1591698,Paylocity Holding Corp,58
+control:TGTX,TGTX,1001316,"TG THERAPEUTICS, INC.",191
+control:LNC,LNC,59558,LINCOLN NATIONAL CORP,416
+control:UGI,UGI,884614,UGI CORP /PA/,59
+control:SEI,SEI,1697500,"Solaris Energy Infrastructure, Inc.",33
+control:CNM,CNM,1856525,"Core & Main, Inc.",50
+control:KNSL,KNSL,1669162,"Kinsale Capital Group, Inc.",49
+control:APLD,APLD,1144879,Applied Digital Corp.,16
+control:WULF,WULF,1083301,TERAWULF INC.,14
+control:AVAV,AVAV,1368622,AeroVironment Inc,190
+control:KEX,KEX,56047,KIRBY CORP,271
+control:SOBO,SOBO,2019061,South Bow Corp,1
+control:GTES,GTES,1718512,Gates Industrial Corp Ltd.,21
+control:CLF,CLF,764065,CLEVELAND-CLIFFS INC.,22677
+control:ALKS,ALKS,1520262,Alkermes plc.,47
+control:AWI,AWI,7431,ARMSTRONG WORLD INDUSTRIES INC,37
+control:VSXY,VSXY,1856437,Victoria's Secret & Co.,1
+control:BTG,BTG,1429937,B2GOLD CORP,662
+control:ESE,ESE,866706,ESCO TECHNOLOGIES INC,115
+control:QLYS,QLYS,1107843,"QUALYS, INC.",102
+control:PACS,PACS,2001184,"PACS Group, Inc.",48
+control:CIG,CIG,1157557,ENERGY CO OF MINAS GERAIS,110
+control:DSGX,DSGX,1050140,DESCARTES SYSTEMS GROUP INC,20
+control:HXL,HXL,717605,HEXCEL CORP /DE/,52
+control:OMF,OMF,1584207,"OneMain Holdings, Inc.",186
+control:RNG,RNG,1384905,"RingCentral, Inc.",1869
+control:NXE,NXE,1698535,NexGen Energy Ltd.,570
+control:CVLT,CVLT,1169561,COMMVAULT SYSTEMS INC,24
+control:FAF,FAF,1472787,First American Financial Corp,244
+control:GDS,GDS,1526125,GDS Holdings Ltd,90
+control:MBLY,MBLY,1910139,Mobileye Global Inc.,4
+control:DPC,DPC,2107018,DPC Holdings PLC,10
+control:UBSI,UBSI,729986,UNITED BANKSHARES INC/WV,11
+control:SFGYY,SFGYY,2084022,Sony Financial Group Inc./ADR,0
+control:RYTM,RYTM,1649904,"RHYTHM PHARMACEUTICALS, INC.",52
+control:FIGR,FIGR,2064124,"Figure Technology Solutions, Inc.",1
+control:CAVA,CAVA,1639438,"CAVA GROUP, INC.",7
+control:PAGP,PAGP,1581990,PLAINS GP HOLDINGS LP,101
+control:DOX,DOX,1062579,AMDOCS LTD,95
+control:VIPS,VIPS,1529192,Vipshop Holdings Ltd,440
+control:CZR,CZR,1590895,"Caesars Entertainment, Inc.",4049
+control:GATX,GATX,40211,GATX CORP,14
+control:KNSA,KNSA,1730430,"Kiniksa Pharmaceuticals International, plc",75
+control:QBTS,QBTS,1907982,D-Wave Quantum Inc.,1
+control:ANF,ANF,1018840,ABERCROMBIE & FITCH CO /DE/,263
+control:SGHC,SGHC,1878057,Super Group (SGHC) Ltd,34
+control:CVI,CVI,1376139,CVR ENERGY INC,128
+control:MKTX,MKTX,1278021,MARKETAXESS HOLDINGS INC,457
+control:WFRD,WFRD,1603923,Weatherford International plc,72
+control:NOVT,NOVT,1076930,NOVANTA INC,14
+control:LKQ,LKQ,1065696,LKQ CORP,426
+control:BGC,BGC,1094831,"BGC Group, Inc.",44
+control:HOMB,HOMB,1331520,HOME BANCSHARES INC,45
+control:AXTI,AXTI,1051627,AXT INC,71
+control:CGON,CGON,1991792,"CG Oncology, Inc.",0
+control:FSV,FSV,1637810,FirstService Corp,14
+control:TTD,TTD,1671933,"Trade Desk, Inc.",4950
+control:BTDPY,BTDPY,1516324,Barratt Developments PLC/ADR,0
+control:ESNT,ESNT,1448893,Essent Group Ltd.,32
+control:MMED,MMED,2062583,"MiniMed Group, Inc.",2754
+control:HAFN,HAFN,1815779,Hafnia Ltd,8
+control:FTDR,FTDR,1727263,"Frontdoor, Inc.",32
+control:GVA,GVA,861459,GRANITE CONSTRUCTION INC,60
+control:RYN,RYN,52827,RAYONIER INC,79
+control:EXLS,EXLS,1297989,"ExlService Holdings, Inc.",20
+control:GXO,GXO,1852244,"GXO Logistics, Inc.",67
+control:PTCT,PTCT,1070081,"PTC THERAPEUTICS, INC.",20
+control:VEON,VEON,1468091,VEON Ltd.,347
+control:SAIC,SAIC,1571123,Science Applications International Corp,308
+control:MTN,MTN,812011,VAIL RESORTS INC,587
+control:BYD,BYD,906553,BOYD GAMING CORP,2347
+control:SIGI,SIGI,230557,SELECTIVE INSURANCE GROUP INC,10
+control:KLAR,KLAR,2003292,Klarna Group plc,546
+control:NIQ,NIQ,2054696,NIQ Global Intelligence plc,2
+control:FND,FND,1507079,"Floor & Decor Holdings, Inc.",97
+control:SMFSY,SMFSY,2048270,"Sumitomo Forestry Co., Ltd./ADR",0
+control:CNX,CNX,1070412,CNX Resources Corp,155
+control:KVYO,KVYO,1835830,"Klaviyo, Inc.",5
+control:GHC,GHC,104889,Graham Holdings Co,23
+control:HCC,HCC,1691303,"WARRIOR MET COAL, INC.",66
+control:HGTY,HGTY,1840776,"Hagerty, Inc.",89
+control:FNMA,FNMA,310522,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,1041
+control:NSIT,NSIT,932696,INSIGHT ENTERPRISES INC,9
+control:BIPC,BIPC,1788348,Brookfield Infrastructure Corp,146
+control:PIPR,PIPR,1230245,PIPER SANDLER COMPANIES,16
+control:OMAB,OMAB,1378239,Central North Airport Group,26
+control:NWSGY,NWSGY,1449664,CTF Services Ltd,6
+control:GNTX,GNTX,355811,GENTEX CORP,28
+control:ENPH,ENPH,1463101,"Enphase Energy, Inc.",9155
+control:OII,OII,73756,OCEANEERING INTERNATIONAL INC,44
+control:CNR,CNR,1710366,"Core Natural Resources, Inc.",341
+control:VSNT,VSNT,2067876,"Versant Media Group, Inc.",0
+control:ADPT,ADPT,1478320,Adaptive Biotechnologies Corp,90
+control:ONDS,ONDS,1646188,Ondas Inc.,104
+control:GFF,GFF,50725,GRIFFON CORP,75
+control:ADOOY,ADOOY,1489079,Adaro Energy PT/ADR/,0
+control:ITGR,ITGR,1114483,Integer Holdings Corp,52
+control:ABCL,ABCL,1703057,AbCellera Biologics Inc.,834
+control:ARX,ARX,1997350,Accelerant Holdings,173
+control:CVSA,CVSA,730464,Covista Inc.,0
+control:OPLN,OPLN,1395942,"OPENLANE, Inc.",0
+control:SFBS,SFBS,1430723,"ServisFirst Bancshares, Inc.",4
+control:RKGRY,RKGRY,2093907,RENK Group AG/ADR,0
+control:BCO,BCO,78890,BRINKS CO,272
+control:SLM,SLM,1032033,SLM Corp,199
+control:INDV,INDV,1625297,"Indivior Pharmaceuticals, Inc.",6
+control:IFHLY,IFHLY,2035057,Inficon Holding AG/ADR,0
+control:MTH,MTH,833079,Meritage Homes CORP,93
+control:CNK,CNK,1385280,"Cinemark Holdings, Inc.",4180
+control:FSLY,FSLY,1517413,"Fastly, Inc.",23557
+control:TCBI,TCBI,1077428,TEXAS CAPITAL BANCSHARES INC/TX,6
+control:RLAY,RLAY,1812364,"Relay Therapeutics, Inc.",45
+control:OBOCY,OBOCY,2094691,Ottobock SE & Co. KGaA/ADR,0
+control:KRC,KRC,1025996,KILROY REALTY CORP,29
+control:BRC,BRC,746598,BRADY CORP,3660
+control:KFY,KFY,56679,KORN FERRY,62
+control:MDU,MDU,67716,MDU RESOURCES GROUP INC,45
+control:AWATY,AWATY,2092258,Air Water Inc./ADR,0
+control:ITRI,ITRI,780571,"ITRON, INC.",36
+control:ALM,ALM,1670061,Almonty Industries Inc.,45
+control:DHT,DHT,1331284,"DHT Holdings, Inc.",2477
+control:SPHR,SPHR,1795250,Sphere Entertainment Co.,1
+control:SEZL,SEZL,1662991,Sezzle Inc.,79
+control:USAC,USAC,1522727,"USA Compression Partners, LP",73
+control:INDB,INDB,776901,INDEPENDENT BANK CORP,7
+control:SKYW,SKYW,793733,SKYWEST INC,200
+control:BFH,BFH,1101215,"BREAD FINANCIAL HOLDINGS, INC.",4
+control:WBI,WBI,2064947,WaterBridge Infrastructure LLC,18
+control:NVST,NVST,1757073,Envista Holdings Corp,59
+control:BATRA,BATRA,1958140,"Atlanta Braves Holdings, Inc.",108
+control:SLGN,SLGN,849869,SILGAN HOLDINGS INC,13
+control:OTTR,OTTR,1466593,Otter Tail Corp,38
+control:SUNC,SUNC,2089661,SunocoCorp LLC,5
+control:CENX,CENX,949157,CENTURY ALUMINUM CO,87
+control:ARIS,ARIS,1964504,Aris Mining Corp,4
+control:BBWI,BBWI,701985,"Bath & Body Works, Inc.",81
+control:KTB,KTB,1760965,"Kontoor Brands, Inc.",34
+control:IPAR,IPAR,822663,INTERPARFUMS INC,7
+control:VKTX,VKTX,1607678,"Viking Therapeutics, Inc.",209
+control:MGNI,MGNI,1595974,"MAGNITE, INC.",4202
+control:MNDY,MNDY,1845338,monday.com Ltd.,158
+control:PBLS,PBLS,1657677,"Parabilis Medicines, Inc.",0
+control:TARS,TARS,1819790,"Tarsus Pharmaceuticals, Inc.",79
+control:PURR,PURR,2078856,Hyperliquid Strategies Inc,6
+control:SBLK,SBLK,1386716,Star Bulk Carriers Corp.,311
+control:COHU,COHU,21535,COHU INC,88
+control:VECO,VECO,103145,VEECO INSTRUMENTS INC,11
+control:PLMR,PLMR,1761312,"Palomar Holdings, Inc.",38
+control:FFBC,FFBC,708955,FIRST FINANCIAL BANCORP /OH/,3
+control:MTLMY,MTLMY,2091028,Metallium Limited/ADR,0
+control:ADX,ADX,2230,"ADAMS DIVERSIFIED EQUITY FUND, INC.",409
+control:SFNC,SFNC,90498,SIMMONS FIRST NATIONAL CORP,9
+control:PRK,PRK,805676,PARK NATIONAL CORP /OH/,24
+control:WRBY,WRBY,1504776,Warby Parker Inc.,131
+control:ASO,ASO,1817358,"Academy Sports & Outdoors, Inc.",11172
+control:EXTR,EXTR,1078271,EXTREME NETWORKS INC,65
+control:AWR,AWR,1056903,AMERICAN STATES WATER CO,81
+control:ATKR,ATKR,1666138,Atkore Inc.,53
+control:NHI,NHI,877860,NATIONAL HEALTH INVESTORS INC,128
+control:BFAM,BFAM,1437578,BRIGHT HORIZONS FAMILY SOLUTIONS INC.,66
+control:NVTS,NVTS,1821769,Navitas Semiconductor Corp,97
+control:GBDC,GBDC,1476765,"GOLUB CAPITAL BDC, Inc.",60
+control:CBU,CBU,723188,"COMMUNITY FINANCIAL SYSTEM, INC.",23
+control:ELVN,ELVN,1672619,"Enliven Therapeutics, Inc.",6
+control:SBCF,SBCF,730708,SEACOAST BANKING CORP OF FLORIDA,2
+control:HTGC,HTGC,1280784,"Hercules Capital, Inc.",93
+control:NMRK,NMRK,1690680,"NEWMARK GROUP, INC.",79
+control:AVPT,AVPT,1777921,"AvePoint, Inc.",3383
+control:BTU,BTU,1064728,PEABODY ENERGY CORP,736
+control:FHB,FHB,36377,"FIRST HAWAIIAN, INC.",5
+control:NEA,NEA,1195737,Nuveen AMT-Free Quality Municipal Income Fund,65
+control:BELFA,BELFA,729580,BEL FUSE INC /NJ,3
+control:ARQT,ARQT,1787306,"Arcutis Biotherapeutics, Inc.",5
+control:UUUU,UUUU,1385849,ENERGY FUELS INC,2308
+control:WOR,WOR,108516,"WORTHINGTON ENTERPRISES, INC.",87
+control:PAGS,PAGS,1712807,PagSeguro Digital Ltd.,240
+control:BTDR,BTDR,1899123,Bitdeer Technologies Group,6
+control:NTCT,NTCT,1078075,NETSCOUT SYSTEMS INC,6
+control:EFXT,EFXT,1904856,Enerflex Ltd.,9
+control:DXPE,DXPE,1020710,DXP ENTERPRISES INC,1
+control:MRVI,MRVI,1823239,"MARAVAI LIFESCIENCES HOLDINGS, INC.",661
+control:SMG,SMG,825542,SCOTTS MIRACLE-GRO CO,865
+control:GRBK,GRBK,1373670,"Green Brick Partners, Inc.",90
+control:BHF,BHF,1685040,"Brighthouse Financial, Inc.",42
+control:CWK,CWK,1628369,Cushman & Wakefield Ltd.,40
+control:AAUC,AAUC,1993344,Allied Gold Corp,0
+control:NVA,NVA,1852551,Nova Minerals Corp,65
+control:BBAR,BBAR,913059,Banco BBVA Argentina S.A.,50
+control:AEGXF,AEGXF,1309167,Aecon Group Inc.,4
+control:KBH,KBH,795266,KB HOME,987
+control:KWR,KWR,81362,QUAKER CHEMICAL CORP,7
+control:WDFC,WDFC,105132,WD 40 CO,228
+control:ADEA,ADEA,1803696,Adeia Inc.,1
+control:MZTI,MZTI,57515,MARZETTI CO,1
+control:STNE,STNE,1745431,StoneCo Ltd.,1036
+control:IMOS,IMOS,1123134,CHIPMOS TECHNOLOGIES INC,30
+control:MGEE,MGEE,1161728,MGE ENERGY INC,1
+control:BOH,BOH,46195,BANK OF HAWAII CORP,48
+control:NMM,NMM,1415921,Navios Maritime Partners L.P.,250
+control:APPN,APPN,1441683,APPIAN CORP,725
+control:LFTO,LFTO,1850351,"Liftoff Mobile, Inc.",0
+control:BCC,BCC,1328581,BOISE CASCADE Co,198
+control:PPTA,PPTA,1526243,PERPETUA RESOURCES CORP.,25
+control:EXK,EXK,1277866,ENDEAVOUR SILVER CORP,236
+control:KMT,KMT,55242,KENNAMETAL INC,52
+control:KALU,KALU,811596,KAISER ALUMINUM CORP,19
+control:NAMS,NAMS,1936258,NewAmsterdam Pharma Co N.V.,0
+control:CUBI,CUBI,1488813,"Customers Bancorp, Inc.",23
+control:DNN,DNN,1063259,DENISON MINES CORP.,4947
+control:JPC,JPC,1216583,Nuveen Preferred & Income Opportunities Fund,19
+control:SKWD,SKWD,1519449,"Skyward Specialty Insurance Group, Inc.",0
+control:IOSP,IOSP,1054905,INNOSPEC INC.,2
+control:LUNR,LUNR,1844452,"Intuitive Machines, Inc.",3
+control:AYR,AYR,1362988,Aircastle LTD,97
+control:SYBT,SYBT,835324,"Stock Yards Bancorp, Inc.",9
+control:HLIO,HLIO,1024795,"HELIOS TECHNOLOGIES, INC.",7
+control:IMNM,IMNM,1472012,Immunome Inc.,78
+control:OSW,OSW,1758488,ONESPAWORLD HOLDINGS Ltd,85
+control:SVM,SVM,1340677,SILVERCORP METALS INC,178
+control:ICHR,ICHR,1652535,"ICHOR HOLDINGS, LTD.",70
+control:UPST,UPST,1647639,"Upstart Holdings, Inc.",9751
+control:NWCL,NWCL,2131813,newcleo plc,13
+control:CNXN,CNXN,1050377,PC CONNECTION INC,0
+control:PDFS,PDFS,1120914,PDF SOLUTIONS INC,14
+control:IVT,IVT,1307748,InvenTrust Properties Corp.,8
+control:SLS,SLS,1390478,"SELLAS Life Sciences Group, Inc.",1974
+control:ADMA,ADMA,1368514,"ADMA BIOLOGICS, INC.",973
+control:CTOS,CTOS,1709682,"Custom Truck One Source, Inc.",9
+control:SMSGY,SMSGY,1560968,Samsonite International SA/ADR,0
+control:MBIN,MBIN,1629019,Merchants Bancorp,3
+control:BHC,BHC,885590,Bausch Health Companies Inc.,545
+control:BKE,BKE,885245,BUCKLE INC,7567
+control:KSS,KSS,885639,KOHLS Corp,2459
+control:PHIN,PHIN,1968915,PHINIA INC.,0
+control:NWBI,NWBI,1471265,"Northwest Bancshares, Inc.",15
+control:PHVS,PHVS,1830487,Pharvaris N.V.,14
+control:NZF,NZF,1137887,Nuveen Municipal Credit Income Fund,8
+control:AXGN,AXGN,805928,"Axogen, Inc.",8
+control:DRD,DRD,1023512,DRDGOLD LTD,78
+control:RVT,RVT,804116,"ROYCE SMALL-CAP TRUST, INC.",23
+control:CDLR,CDLR,1978867,Cadeler A/S,4
+control:SEDG,SEDG,1419612,"SOLAREDGE TECHNOLOGIES, INC.",2131
+control:ATEN,ATEN,1580808,"A10 Networks, Inc.",84
+control:UAA,UAA,1336917,"Under Armour, Inc.",1667
+control:ECPG,ECPG,1084961,ENCORE CAPITAL GROUP INC,40
+control:SBET,SBET,1981535,"Sharplink, Inc.",52
+control:SONO,SONO,1314727,Sonos Inc,2725
+control:UTZ,UTZ,1739566,"Utz Brands, Inc.",1931
+control:IQMX,IQMX,2113060,IQM Quantum Computers Oyj,0
+control:IDT,IDT,1005731,IDT CORP,72
+control:PGNY,PGNY,1551306,"Progyny, Inc.",172
+control:NWN,NWN,1733998,Northwest Natural Holding Co,19
+control:INSP,INSP,1609550,"Inspire Medical Systems, Inc.",54
+control:GCT,GCT,1857816,GigaCloud Technology Inc,3
+control:MLYS,MLYS,1933414,"Mineralys Therapeutics, Inc.",1
+control:AMPL,AMPL,1866692,"Amplitude, Inc.",91
+control:ESTA,ESTA,1688757,ESTABLISHMENT LABS HOLDINGS INC.,31
+control:PAEXY,PAEXY,2073620,Parex Resources Inc./ADR,0
+control:KRP,KRP,1657788,"Kimbell Royalty Partners, LP",21
+control:UWMC,UWMC,1783398,UWM Holdings Corp,34995
+control:EZPW,EZPW,876523,EZCORP INC,83
+control:BXMT,BXMT,1061630,"BLACKSTONE MORTGAGE TRUST, INC.",96
+control:BRSL,BRSL,1619762,Brightstar Lottery PLC,0
+control:ASTH,ASTH,1083446,"Astrana Health, Inc.",0
+control:EPAC,EPAC,6955,ENERPAC TOOL GROUP CORP,20
+control:ZYME,ZYME,1937653,Zymeworks Inc.,40
+control:RBCAA,RBCAA,921557,REPUBLIC BANCORP INC /KY/,3
+control:XERS,XERS,1867096,"Xeris Biopharma Holdings, Inc.",818
+control:DHC,DHC,1075415,DIVERSIFIED HEALTHCARE TRUST,28
+control:LMAT,LMAT,1158895,LEMAITRE VASCULAR INC,6
+control:BRVE,BRVE,2131524,"Braveheart Bio, Inc.",0
+control:NYAX,NYAX,1901279,Nayax Ltd.,0
+control:SNDA,SNDA,1043000,"SONIDA SENIOR LIVING, INC.",11
+control:HYMC,HYMC,1718405,HYCROFT MINING HOLDING CORP,1438
+control:SGRY,SGRY,1638833,"Surgery Partners, Inc.",27
+control:FRNM,FRNM,2017526,"Freenome, Inc.",3
+control:SPB,SPB,109177,"Spectrum Brands Holdings, Inc.",77
+control:DCOM,DCOM,846617,"Dime Commercial Bancshares, Inc. /NY/",18
+control:THRM,THRM,903129,Gentherm Inc,152
+control:FSUN,FSUN,1709442,FIRSTSUN CAPITAL BANCORP,0
+control:GTY,GTY,1052752,GETTY REALTY CORP /MD/,20
+control:ALHC,ALHC,1832466,"Alignment Healthcare, Inc.",23
+control:HUBG,HUBG,940942,"Hub Group, Inc.",13
+control:NUV,NUV,812801,NUVEEN MUNICIPAL VALUE FUND INC,2
+control:GENI,GENI,1834489,Genius Sports Ltd,1944
+control:WRD,WRD,1867729,WeRide Inc.,8
+control:BFC,BFC,1746109,Bank First Corp,10
+control:BDJ,BDJ,1332283,BlackRock Enhanced Equity Dividend Trust,22
+control:GIC,GIC,945114,GLOBAL INDUSTRIAL Co,241
+control:TSLX,TSLX,1508655,"Sixth Street Specialty Lending, Inc.",26
+control:LCID,LCID,1811210,"Lucid Group, Inc.",41345
+control:QCRH,QCRH,906465,QCR HOLDINGS INC,2
+control:OCFC,OCFC,1004702,OCEANFIRST FINANCIAL CORP,3
+control:AESI,AESI,1984060,Atlas Energy Solutions Inc.,1
+control:STOK,STOK,1623526,"Stoke Therapeutics, Inc.",133
+control:AGRO,AGRO,1499505,Adecoagro S.A.,30
+control:FLNC,FLNC,1868941,"Fluence Energy, Inc.",89
+control:PBT,PBT,319654,PERMIAN BASIN ROYALTY TRUST,152
+control:SNDX,SNDX,1395937,Syndax Pharmaceuticals Inc,43
+control:AMBQ,AMBQ,1500412,"Ambiq Micro, Inc.",0
+control:KMPR,KMPR,860748,KEMPER Corp,25
+control:GAM,GAM,40417,GENERAL AMERICAN INVESTORS CO INC,96
+control:AMSC,AMSC,880807,AMERICAN SUPERCONDUCTOR CORP /DE/,104
+control:SBH,SBH,1368458,"Sally Beauty Holdings, Inc.",86
+control:NUTX,NUTX,1479681,Nutex Health Inc.,1
+control:INBT,INBT,2156068,InoBat B.V.,2
+control:CSWC,CSWC,17313,CAPITAL SOUTHWEST CORP,21
+control:PGY,PGY,1883085,Pagaya Technologies Ltd.,5
+control:ARDT,ARDT,1756655,"Ardent Health, Inc.",0
+control:MQY,MQY,890196,"BLACKROCK MUNIYIELD QUALITY FUND, INC.",7
+control:RQI,RQI,1157842,COHEN & STEERS QUALITY INCOME REALTY FUND INC,38
+control:MGRT,MGRT,2033377,Mega Fortune Co Ltd,0
+control:PAHC,PAHC,1069899,PHIBRO ANIMAL HEALTH CORP,6
+control:AAPG,AAPG,2023311,ASCENTAGE PHARMA GROUP INTERNATIONAL,1
+control:COUR,COUR,1651562,"Coursera, Inc.",996
+control:ULCC,ULCC,1670076,"Frontier Group Holdings, Inc.",962
+control:MBC,MBC,1941365,"MasterBrand, Inc.",7
+control:AMAL,AMAL,1823608,Amalgamated Financial Corp.,6
+control:MLKN,MLKN,66382,"MILLERKNOLL, INC.",10
+control:KLRA,KLRA,2096997,"Kailera Therapeutics, Inc.",0
+control:WBTN,WBTN,1997859,WEBTOON Entertainment Inc.,0
+control:ATLC,ATLC,1464343,Atlanticus Holdings Corp,15
+control:ORCRY,ORCRY,2142762,Organo Corporation/ADR,0
+control:NFJ,NFJ,1260563,"Virtus Dividend, Interest & Premium Strategy Fund",6
+control:BHRB,BHRB,1964333,Burke & Herbert Financial Services Corp.,0
+control:RYZ,RYZ,1481582,Ryerson Holding Corp,29
+control:BTT,BTT,1528437,BlackRock Municipal 2030 Target Term Trust,602
+control:HLMN,HLMN,1822492,Hillman Solutions Corp.,24
+control:SFDMY,SFDMY,1493507,Shanghai Fudan Microelectronics Co Limited/ADR/,0
+control:ARLO,ARLO,1736946,"Arlo Technologies, Inc.",250
+control:ESRT,ESRT,1541401,"Empire State Realty Trust, Inc.",85
+control:CRCT,CRCT,1828962,"Cricut, Inc.",411
+control:XZO,XZO,1873951,"Exzeo Group, Inc.",0
+control:HBT,HBT,775215,"HBT Financial, Inc.",15
+control:SLVM,SLVM,1856485,Sylvamo Corp,8
+control:NMAX,NMAX,2026478,Newsmax Inc.,352
+control:NBXG,NBXG,1843181,Neuberger Next Generation Connectivity Fund Inc.,3
+control:RDWR,RDWR,1094366,RADWARE LTD,15
+control:MNSKY,MNSKY,1584297,MoneySupermarket.com Group PLC/ADR,0
+control:NBR,NBR,1163739,NABORS INDUSTRIES LTD,202
+control:USPH,USPH,885978,U S PHYSICAL THERAPY INC /NV,37
+control:EPC,EPC,1096752,EDGEWELL PERSONAL CARE Co,132
+control:REPL,REPL,1737953,"Replimune Group, Inc.",36
+control:BRUN,BRUN,2090646,Boost Run Inc.,1
+control:LNXSY,LNXSY,1311307,LANXESS AG,25
+control:MNKD,MNKD,899460,MANNKIND CORP,831
+control:SBE,SBE,2133037,"SB Energy, Inc.",7455
+control:ESBA,ESBA,1553079,"Empire State Realty OP, L.P.",0
+control:MYE,MYE,69488,MYERS INDUSTRIES INC,12
+control:VTOL,VTOL,1525221,Bristow Group Inc.,223
+control:AMRC,AMRC,1488139,"Ameresco, Inc.",118
+control:CXM,CXM,1569345,"Sprinklr, Inc.",92
+control:DMRA,DMRA,1800315,"Damora Therapeutics, Inc.",0
+control:MYI,MYI,883412,"BLACKROCK MUNIYIELD QUALITY FUND III, INC.",4
+control:LNN,LNN,836157,LINDSAY CORP,288
+control:GIII,GIII,821002,G III APPAREL GROUP LTD /DE/,65
+control:HZO,HZO,1057060,MARINEMAX INC,122
+control:SENEA,SENEA,88948,Seneca Foods Corp,9
+control:IMTX,IMTX,1809196,Immatics N.V.,56
+control:LOMA,LOMA,1711375,Loma Negra Compania Industrial Argentina Sociedad Anonima,15
+control:DSL,DSL,1566388,DoubleLine Income Solutions Fund,261
+control:GDRX,GDRX,1809519,"GoodRx Holdings, Inc.",1370
+control:PSIX,PSIX,1137091,"POWER SOLUTIONS INTERNATIONAL, INC.",2
+control:BTX,BTX,1836057,BlackRock Technology & Private Equity Term Trust,1491
+control:CDRE,CDRE,1860543,"Cadre Holdings, Inc.",15
+control:LTGO,LTGO,2056611,"Latigo Biotherapeutics, Inc.",0
+control:AORT,AORT,784199,"ARTIVION, INC.",1
+control:WINA,WINA,908315,WINMARK CORP,42
+control:CRF,CRF,33934,CORNERSTONE TOTAL RETURN FUND INC,50
+control:TUYA,TUYA,1829118,Tuya Inc.,35
+control:GHM,GHM,716314,GRAHAM CORP,102
+control:NXRT,NXRT,1620393,"NexPoint Residential Trust, Inc.",76
+control:UPWK,UPWK,1627475,"UPWORK, INC",2684
+control:ITRN,ITRN,1337117,Ituran Location & Control Ltd.,14
+control:HPK,HPK,1792849,"HighPeak Energy, Inc.",73
+control:RSKD,RSKD,1851112,RISKIFIED LTD.,114
+control:YKCLY,YKCLY,2107946,Yamato Kogyo Co. Ltd/ADR,0
+control:JANX,JANX,1817713,"Janux Therapeutics, Inc.",1
+control:NWPX,NWPX,1001385,"NWPX Infrastructure, Inc.",8
+control:AKTS,AKTS,2035832,"Aktis Oncology, Inc.",70
+control:STK,STK,1471420,"Columbia Seligman Premium Technology Growth Fund, Inc.",119
+control:BFST,BFST,1624322,"Business First Bancshares, Inc.",3
+control:TYG,TYG,1268533,TORTOISE ENERGY INFRASTRUCTURE CORP,12
+control:MSEX,MSEX,66004,MIDDLESEX WATER CO,27
+control:PCRX,PCRX,1396814,"Pacira BioSciences, Inc.",44
+control:FMCB,FMCB,1085913,FARMERS & MERCHANTS BANCORP,3
+control:PSNY,PSNY,1884082,Polestar Automotive Holding UK PLC,35
+control:RCAT,RCAT,748268,"Red Cat Holdings, Inc.",363
+control:PSEC,PSEC,1287032,PROSPECT CAPITAL CORP,702
+control:AHG,AHG,1702318,Akso Health Group,40
+control:BRAI,BRAI,2076975,Braiin Ltd,1
+control:SIFY,SIFY,1094324,SIFY TECHNOLOGIES LTD,135
+control:CHY,CHY,1222719,CALAMOS CONVERTIBLE & HIGH INCOME FUND,125
+control:ASM,ASM,316888,AVINO SILVER & GOLD MINES LTD,274
+control:GLIBA,GLIBA,2057463,Liberty Capital Corp/NV,10
+control:MLTX,MLTX,1821586,MoonLake Immunotherapeutics,3
+control:CBLL,CBLL,1861107,"Ceribell, Inc.",0
+control:HAFC,HAFC,1109242,HANMI FINANCIAL CORP,4
+control:SBGI,SBGI,1971213,"Sinclair, Inc.",427
+control:BKSY,BKSY,1753539,BlackSky Technology Inc.,392
+control:VYX,VYX,70866,NCR Voyix Corp,1
+control:BCX,BCX,1506289,BlackRock Resources & Commodities Strategy Trust,11
+control:FRBT,FRBT,1925062,"Forbright, Inc.",0
+control:RHLD,RHLD,2039497,"Resolute Holdings Management, Inc.",0
+control:CYRX,CYRX,1124524,"Cryoport, Inc.",152
+control:HEPS,HEPS,1850235,D-MARKET Electronic Services & Trading,37
+control:RPC,RPC,1841968,"Ridgepost Capital, Inc.",26
+control:ALMS,ALMS,1847367,ALUMIS INC.,1
+control:AEBI,AEBI,2048519,Aebi Schmidt Holding AG,0
+control:LWLG,LWLG,1325964,"Lightwave Logic, Inc.",208
+control:SIBN,SIBN,1459839,"SI-BONE, Inc.",8
+control:VRTS,VRTS,883237,"VIRTUS INVESTMENT PARTNERS, INC.",27
+control:GSBC,GSBC,854560,"GREAT SOUTHERN BANCORP, INC.",0
+control:PLTK,PLTK,1828016,Playtika Holding Corp.,208
+control:EGBN,EGBN,1050441,EAGLE BANCORP INC,4
+control:TBLA,TBLA,1840502,Taboola.com Ltd.,149
+control:DAKT,DAKT,915779,DAKTRONICS INC /SD/,13
+control:BTGO,BTGO,1740604,"BITGO HOLDINGS, INC.",60
+control:QNST,QNST,1117297,"QUINSTREET, INC",18
+control:JBIO,JBIO,1798749,"Jade Biosciences, Inc.",0
+control:SCZM,SCZM,1548536,Santacruz Silver Mining Ltd.,5
+control:HSHP,HSHP,1959455,Himalaya Shipping Ltd.,0
+control:MYN,MYN,882150,"BLACKROCK MUNIYIELD NEW YORK QUALITY FUND, INC.",0
+control:APEI,APEI,1201792,AMERICAN PUBLIC EDUCATION INC,15
+control:YALA,YALA,1794350,Yalla Group Ltd,267
+control:AWF,AWF,906013,ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND INC,10
+control:ABX,ABX,1814287,"Abacus Global Management, Inc.",120
+control:TCGLF,TCGLF,2047190,TechCreate Group Ltd.,0
+control:ATTO,ATTO,2058707,"Attovia Therapeutics, Inc.",11
+control:SPFI,SPFI,1163668,"SOUTH PLAINS FINANCIAL, INC.",6
+control:MAKO,MAKO,1784930,Mako Mining Corp.,31
+control:DSP,DSP,1828791,Viant Technology Inc.,302
+control:SMBC,SMBC,916907,"SOUTHERN MISSOURI BANCORP, INC.",28
+control:BUR,BUR,1714174,Burford Capital Ltd,92
+control:PGC,PGC,1050743,PEAPACK GLADSTONE FINANCIAL CORP,58
+control:LXRX,LXRX,1062822,"LEXICON PHARMACEUTICALS, INC.",275
+control:ANNX,ANNX,1528115,"Annexon, Inc.",6
+control:SABR,SABR,1597033,Sabre Corp,1572
+control:GRPN,GRPN,1490281,"Groupon, Inc.",2865
+control:AMRQF,AMRQF,2076631,AMAROQ LTD.,0
+control:KRNGY,KRNGY,1494191,Karoon Gas Australia Ltd /ADR/,0
+control:LPTH,LPTH,889971,LIGHTPATH TECHNOLOGIES INC,145
+control:SKYH,SKYH,1823587,Sky Harbour Group Corp,80
+control:GPRK,GPRK,1464591,GeoPark Ltd,10
+control:SLDB,SLDB,1707502,Solid Biosciences Inc.,200
+control:LXU,LXU,60714,"LSB INDUSTRIES, INC.",142
+control:STRW,STRW,1782430,"Strawberry Fields REIT, Inc.",0
+control:PRAA,PRAA,1185348,PRA GROUP INC,14
+control:HYLN,HYLN,1759631,Hyliion Holdings Corp.,14801
+control:THQ,THQ,1604522,abrdn Healthcare Opportunities Fund,21
+control:ELVR,ELVR,1739016,Elevra Lithium Ltd,0
+control:CRTO,CRTO,1576427,Criteo S.A.,55
+control:CGBD,CGBD,1544206,"Carlyle Secured Lending, Inc.",2
+control:BTO,BTO,925683,JOHN HANCOCK FINANCIAL OPPORTUNITIES FUND,733
+control:BUUU,BUUU,2047273,BUUU Group Ltd,1
+control:BLMN,BLMN,1546417,"Bloomin' Brands, Inc.",540
+control:AVBP,AVBP,1868279,"ArriVent BioPharma, Inc.",0
+control:SMWB,SMWB,1842731,SIMILARWEB LTD.,171
+control:NUAI,NUAI,2028336,"New ERA Energy & Digital, Inc.",0
+control:FFC,FFC,1174164,Flaherty & Crumrine PREFERRED & INCOME SECURITIES FUND INC,32
+control:GDOT,GDOT,1386278,GREEN DOT CORP,82
+control:SUPV,SUPV,1517399,Grupo Supervielle S.A.,101
+control:MALG,MALG,1309251,MICROALLIANCE GROUP INC.,0
+control:NIE,NIE,1383441,Virtus Equity & Convertible Income Fund,41
+control:PHAR,PHAR,1828316,Pharming Group N.V.,85
+control:LOGC,LOGC,2064307,ContextLogic Holdings Inc.,772
+control:ABUS,ABUS,1447028,Arbutus Biopharma Corp,871
+control:CNNE,CNNE,1704720,"Cannae Holdings, Inc.",168
+control:STLN,STLN,1799191,"Starling Oncology, Inc.",1
+control:PINWF,PINWF,2059573,Pinewood Technologies Group plc,0
+control:CCSI,CCSI,1866633,"Consensus Cloud Solutions, Inc.",3
+control:NMFC,NMFC,1496099,New Mountain Finance Corp,24
+control:WCCB,WCCB,2105965,West Coast Community Bancorp,0
+control:PZZA,PZZA,901491,PAPA JOHNS INTERNATIONAL INC,1045
+control:CCB,CCB,1437958,COASTAL FINANCIAL CORP,18
+control:PHR,PHR,1412408,"Phreesia, Inc.",45
+control:SOPH,SOPH,1840706,SOPHiA GENETICS SA,8
+control:FWDI,FWDI,38264,"Forward Industries, Inc.",0
+control:RZAI,RZAI,2075335,ROZE AI INC.,0
+control:SLRC,SLRC,1418076,SLR Investment Corp.,35
+control:PFN,PFN,1296250,PIMCO Income Strategy Fund II,20
+control:IPX,IPX,1898601,IPERIONX Ltd,7
+control:ADTN,ADTN,926282,"ADTRAN Holdings, Inc.",22
+control:NFGC,NFGC,1840616,New Found Gold Corp.,6
+control:ABTC,ABTC,1755953,American Bitcoin Corp.,85
+control:GFUZ,GFUZ,2074850,General Fusion Group Ltd.,0
+control:REAX,REAX,2136387,Real REMAX Group Inc.,21
+control:GEMI,GEMI,2055592,"Gemini Space Station, Inc.",1
+control:ANGO,ANGO,1275187,ANGIODYNAMICS INC,61
+control:EVAC,EVAC,2042902,EQV Ventures Acquisition Corp. II,17
+control:UAMY,UAMY,101538,UNITED STATES ANTIMONY CORP,655
+control:ENVX,ENVX,1828318,Enovix Corp,323
+control:CXII,CXII,2114227,Churchill Capital Corp XII,2
+control:SWRD,SWRD,1795851,"Stewards, Inc.",17
+control:ENHA,ENHA,1956439,Enhanced Group Inc.,0
+control:IGR,IGR,1268884,CBRE GLOBAL REAL ESTATE INCOME FUND,20
+control:WNC,WNC,879526,WABASH NATIONAL Corp,41
+control:NVEC,NVEC,724910,NVE CORP /NEW/,9
+control:CTGO,CTGO,1502377,Contango Silver & Gold Inc.,2
+control:CRMD,CRMD,1410098,CorMedix Inc.,455
+control:NVRI,NVRI,2104052,Enviri Corp,0
+control:BLSM,BLSM,1839970,"BlossomHill Therapeutics, Inc.",0
+control:TLRY,TLRY,1731348,"Tilray Brands, Inc.",58657
+control:VALN,VALN,1836564,Valneva SE,64
+control:UNTY,UNTY,920427,UNITY BANCORP INC /NJ/,28
+control:ABXXF,ABXXF,1971975,Abaxx Technologies Inc.,34
+control:CHWM,CHWM,2113605,Chilwa Minerals Ltd,0
+control:ETJ,ETJ,1395325,Eaton Vance Risk-Managed Diversified Equity Income Fund,16
+control:NRIM,NRIM,1163370,NORTHRIM BANCORP INC,3
+control:MNPR,MNPR,1645469,Monopar Therapeutics,89
+control:KELYA,KELYA,55135,KELLY SERVICES INC,23
+control:SLDP,SLDP,1844862,"Solid Power, Inc.",1094
+control:MPLT,MPLT,1770069,"MapLight Therapeutics, Inc.",0
+control:ETD,ETD,896156,ETHAN ALLEN INTERIORS INC,66
+control:OPFI,OPFI,1818502,OppFi Inc.,736
+control:DNUT,DNUT,1857154,"Krispy Kreme, Inc.",2804
+control:EPRX,EPRX,1581178,EUPRAXIA PHARMACEUTICALS INC.,0
+control:UHT,UHT,798783,UNIVERSAL HEALTH REALTY INCOME TRUST,16
+control:BSRR,BSRR,1130144,SIERRA BANCORP,2
+control:ESEA,ESEA,1341170,EUROSEAS LTD.,120
+control:ETO,ETO,1281926,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,8
+control:NWAX,NWAX,2074878,New America Acquisition I Corp.,0
+control:XRN,XRN,1533615,Chiron Real Estate Inc.,1
+control:PBAM,PBAM,1705284,"Private Bancorp of America, Inc.",0
+control:CMCO,CMCO,1005229,COLUMBUS MCKINNON CORP,11
+control:THW,THW,1635977,abrdn World Healthcare Fund,83
+control:MLAA,MLAA,2094265,Mountain Lake Acquisition Corp. II,0
+control:EOLS,EOLS,1570562,"Evolus, Inc.",157
+control:SGHT,SGHT,1531177,"Sight Sciences, Inc.",8
+control:BDN,BDN,790816,BRANDYWINE REALTY TRUST,44
+control:CLB,CLB,1958086,Core Laboratories Inc. /DE/,77
+control:CERS,CERS,1020214,CERUS CORP,212
+control:HBB,HBB,1709164,Hamilton Beach Brands Holding Co,32
+control:CTNM,CTNM,1855175,"Contineum Therapeutics, Inc.",0
+control:OVID,OVID,1636651,Ovid Therapeutics Inc.,280
+control:SPCE,SPCE,1706946,"Virgin Galactic Holdings, Inc",96347
+control:APXT,APXT,2079253,Apex Treasury Corp,6196
+control:TRTX,TRTX,1630472,"TPG RE Finance Trust, Inc.",124
+control:ASTL,ASTL,1860805,Algoma Steel Group Inc.,81
+control:CZNC,CZNC,810958,CITIZENS & NORTHERN CORP,11
+control:IFN,IFN,917100,"ABERDEEN INDIA FUND, INC.",25
+control:IPI,IPI,1421461,"Intrepid Potash, Inc.",84
+control:ALTI,ALTI,1838615,"AlTi Global, Inc.",2
+control:NMAI,NMAI,1861115,Nuveen Multi-Asset Income Fund,0
+control:ASIX,ASIX,1673985,AdvanSix Inc.,22
+control:MCTA,MCTA,2035992,Charming Medical Ltd,0
+control:BMRC,BMRC,1403475,Bank of Marin Bancorp,29
+control:TRC,TRC,96869,TEJON RANCH CO,37
+control:MBVI,MBVI,2073928,M3-Brigade Acquisition VI Corp.,0
+control:AMSF,AMSF,1018979,AMERISAFE INC,7
+control:VRRM,VRRM,1682745,VERRA MOBILITY Corp,38
+control:MNRO,MNRO,876427,"MONRO, INC.",26
+control:PBFS,PBFS,1769663,"Pioneer Bancorp, Inc./MD",0
+control:SPRY,SPRY,1671858,"ARS Pharmaceuticals, Inc.",2
+control:KIO,KIO,1515940,KKR Income Opportunities Fund,7
+control:NPFD,NPFD,1865389,Nuveen Variable Rate Preferred & Income Fund,0
+control:AGMB,AGMB,2020932,AgomAb Therapeutics NV,0
+control:FOSL,FOSL,883569,"Fossil Group, Inc.",922
+control:ADUR,ADUR,1863934,ADURO CLEAN TECHNOLOGIES INC.,25
+control:KFII,KFII,2029976,K&F GROWTH ACQUISITION CORP. II,0
+control:MAGN,MAGN,41719,Magnera Corp,8
+control:NATH,NATH,69733,"NATHANS FAMOUS, INC.",34
+control:CLBR,CLBR,2091024,Colombier Acquisition Corp. III,24
+control:AVIR,AVIR,1593899,"Atea Pharmaceuticals, Inc.",305
+control:CINT,CINT,1868995,CI&T Inc,2
+control:CGC,CGC,1737927,Canopy Growth Corp,9780
+control:VITL,VITL,1579733,"Vital Farms, Inc.",101
+control:TCI,TCI,733590,TRANSCONTINENTAL REALTY INVESTORS INC,25
+control:AEF,AEF,846676,"abrdn Emerging Markets ex-China Fund, Inc.",5
+control:CYH,CYH,1108109,COMMUNITY HEALTH SYSTEMS INC,134
+control:MNTK,MNTK,1826600,"Montauk Renewables, Inc.",29
+control:MVBF,MVBF,1277902,MVB FINANCIAL CORP,4
+control:OXM,OXM,75288,OXFORD INDUSTRIES INC,26
+control:PKBK,PKBK,1315399,"PARKE BANCORP, INC.",7
+control:BMBL,BMBL,1830043,Bumble Inc.,6634
+control:FRST,FRST,1325670,Primis Financial Corp.,5
+control:KYTX,KYTX,1994702,"Kyverna Therapeutics, Inc.",0
+control:SOHU,SOHU,1734107,Sohu.com Ltd,92
+control:HACQ,HACQ,2089982,HCM IV Acquisition Corp.,0
+control:GALT,GALT,1133416,GALECTIN THERAPEUTICS INC,105
+control:NWFL,NWFL,1013272,NORWOOD FINANCIAL CORP,2
+control:HFRO,HFRO,1710680,HIGHLAND OPPORTUNITIES & INCOME FUND,4
+control:DGXX,DGXX,1854368,Digi Power X Inc.,0
+control:RNGR,RNGR,1699039,"Ranger Energy Services, Inc.",8
+control:TACH,TACH,2009183,Titan Acquisition Corp.,1
+control:ERII,ERII,1421517,"Energy Recovery, Inc.",39
+control:KCHV,KCHV,2053799,Kochav Defense Acquisition Corp.,0
+control:GBLI,GBLI,1494904,"Global Indemnity Group, LLC",6
+control:FLXS,FLXS,37472,FLEXSTEEL INDUSTRIES INC,23
+control:SFIX,SFIX,1576942,"Stitch Fix, Inc.",1551
+control:ENTA,ENTA,1177648,ENANTA PHARMACEUTICALS INC,6
+control:CYPH,CYPH,1509745,CYPHERPUNK TECHNOLOGIES INC.,1
+control:AMAC,AMAC,2110119,AMR Resources Acquisition Corp.,17
+control:ARQQ,ARQQ,1859690,Arqit Quantum Inc.,369
+control:EAD,EAD,1210123,ALLSPRING INCOME OPPORTUNITIES FUND,82
+control:HCIC,HCIC,2099093,Hennessy Capital Investment Corp. VIII,747
+control:OYSE,OYSE,2042182,Oyster Enterprises II Acquisition Corp,0
+control:RLMD,RLMD,1553643,"RELMADA THERAPEUTICS, INC.",28
+control:ARTNA,ARTNA,863110,ARTESIAN RESOURCES CORP,1
+control:LZM,LZM,1958217,Lifezone Metals Ltd,0
+control:KDK,KDK,1853138,"Kodiak AI, Inc.",53
+control:FNKO,FNKO,1704711,"Funko, Inc.",3570
+control:ATAC,ATAC,2135163,Albatross Acquisition Corp,278
+control:USDE,USDE,2080215,StableCoinX Inc.,0
+control:GASS,GASS,1328919,StealthGas Inc.,32
+control:AACI,AACI,2092897,Armada Acquisition Corp. III,10
+control:VFF,VFF,1584549,"Village Farms International, Inc.",2245
+control:EMF,EMF,809708,TEMPLETON EMERGING MARKETS FUND,43
+control:CDPMF,CDPMF,2046223,Cerro de Pasco Resources Inc.,0
+control:OTLY,OTLY,1843586,Oatly Group AB,694
+control:SPXX,SPXX,1338561,Nuveen S&P 500 Dynamic Overwrite Fund,8
+control:BKKT,BKKT,1820302,"Bakkt, Inc.",3910
+control:NNDM,NNDM,1643303,Nano Dimension Ltd.,6416
+control:PNRG,PNRG,56868,PRIMEENERGY RESOURCES CORP,13
+control:NOA,NOA,1368519,North American Construction Group Ltd.,24
+control:FERA,FERA,2025401,Fifth Era Acquisition Corp I,0
+control:PCAP,PCAP,2056634,ProCap Acquisition Corp,4
+control:PESI,PESI,891532,PERMA FIX ENVIRONMENTAL SERVICES INC,7
+control:TLS,TLS,320121,TELOS CORP,1162
+control:EVOX,EVOX,2077954,Evolution Global Acquisition Corp,0
+control:MIY,MIY,890393,"BLACKROCK MUNIYIELD MICHIGAN QUALITY FUND, INC.",2
+control:AFRI,AFRI,1903870,Forafric Global PLC,1
+control:CLW,CLW,1441236,Clearwater Paper Corp,26
+control:CLCHF,CLCHF,2125750,Clinch Resources Ltd.,0
+control:RNGT,RNGT,2078653,Range Capital Acquisition Corp II,0
+control:TVA,TVA,2033991,Texas Ventures Acquisition III Corp,56
+control:KTF,KTF,839533,DWS MUNICIPAL INCOME TRUST,2
+control:ATII,ATII,2028516,Archimedes Tech SPAC Partners II Co.,4
+control:JAKK,JAKK,1009829,JAKKS PACIFIC INC,310
+control:CURR,CURR,1862935,Currenc Group Inc.,150
+control:BNTC,BNTC,1808898,Benitec Biopharma Inc.,103
+control:HYAC,HYAC,2111838,Haymaker Acquisition Corp V,274
+control:AACO,AACO,2099906,Abony Acquisition Corp. I,3
+control:EGHT,EGHT,1023731,8X8 INC /DE/,124
+control:IHRT,IHRT,1400891,"iHeartMedia, Inc.",103
+control:BORAY,BORAY,2097461,"Bora Pharmaceuticals Co., Ltd./ADR",0
+control:ILLU,ILLU,2101135,Illumination Acquisition Corp. I,0
+control:LWAC,LWAC,2061379,LightWave Acquisition Corp.,327
+control:LPBB,LPBB,2023676,Launch Two Acquisition Corp.,0
+control:BGT,BGT,1287480,BLACKROCK FLOATING RATE INCOME TRUST,7
+control:AWP,AWP,1390195,abrdn Global Premier Properties Fund,70
+control:VHCP,VHCP,2086264,Vine Hill Capital Investment Corp. II,0
+control:ITHA,ITHA,2080985,ITHAX Acquisition Corp III,0
+control:TMTS,TMTS,2097364,Spartacus Acquisition Corp. II,226
+control:FTW,FTW,2083125,PRESIDIO PRODUCTION Co,814
+control:XNET,XNET,1510593,Xunlei Ltd,243
+control:NODK,NODK,1681206,"NI Holdings, Inc.",3
+control:GSRV,GSRV,2111762,GSR V Acquisition Corp.,18
+control:EFTY,EFTY,2058349,"ETOILES CAPITAL GROUP CO., LTD",0
+control:GSRF,GSRF,2072404,GSR IV Acquisition Corp.,0
+control:PRLD,PRLD,1678660,Prelude Therapeutics Inc,23
+control:SNDL,SNDL,1766600,SNDL Inc.,104365
+control:MOBI,MOBI,1489993,"Mobia Medical, Inc.",0
+control:BPRN,BPRN,1913971,"Princeton Bancorp, Inc.",2
+control:GPAC,GPAC,2085408,General Purpose Acquisition Corp.,312
+control:PSBD,PSBD,1794776,Palmer Square Capital BDC Inc.,0
+control:MYFW,MYFW,1327607,First Western Financial Inc,2
+control:ACGC,ACGC,2111542,ACP Holdings Acquisition Corp.,0
+control:BKTI,BKTI,2186,BK Technologies Corp,22
+control:SVRSF,SVRSF,1682056,Silver Storm Mining Ltd.,0
+control:OVLY,OVLY,1431567,Oak Valley Bancorp,3
+control:UCFI,UCFI,1901203,CN Healthy Food Tech Group Corp.,0
+control:PMTS,PMTS,1641614,CPI Card Group Inc.,10
+control:BNC,BNC,1482541,BNB Standard Corp,20
+control:RELL,RELL,355948,"RICHARDSON ELECTRONICS, LTD.",37
+control:QNBC,QNBC,750558,QNB CORP.,3
+control:TDUP,TDUP,1484778,ThredUp Inc.,201
+control:HWBK,HWBK,893847,"HAWTHORN BANCSHARES, INC.",2
+control:ISNR,ISNR,2123475,Snow Rothschild Acquisition Corp.,1
+control:BFNH,BFNH,1310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",0
+control:WHGOF,WHGOF,1423867,White Gold Corp.,4
+control:LCNB,LCNB,1074902,LCNB CORP,1
+control:SRV,SRV,1400897,NXG Cushing Midstream Energy Fund,10
+control:USNA,USNA,896264,USANA HEALTH SCIENCES INC,30
+control:LXEO,LXEO,1907108,"Lexeo Therapeutics, Inc.",0
+control:LDI,LDI,1831631,"loanDepot, Inc.",781
+control:AVNW,AVNW,1377789,"AVIAT NETWORKS, INC.",67
+control:SBXDF,SBXDF,2015947,SilverBox Corp IV,0
+control:CNCK,CNCK,1913847,Coincheck Group N.V.,0
+control:GONYF,GONYF,2081438,GO Residential Real Estate Investment Trust,0
+control:QSI,QSI,1816431,Quantum-Si Inc,368
+control:VNDA,VNDA,1347178,Vanda Pharmaceuticals Inc.,40
+control:KINS,KINS,33992,"KINGSTONE COMPANIES, INC.",12
+control:PHOS,PHOS,1490078,First Phosphate Corp.,0
+control:ELTP,ELTP,1053369,ELITE PHARMACEUTICALS INC /NV/,125
+control:SSP,SSP,832428,E.W. SCRIPPS Co,123
+control:INFU,INFU,1337013,"InfuSystem Holdings, Inc",13
+control:OACC,OACC,2029769,Oaktree Acquisition Corp. III Life Sciences,12
+control:PPIH,PPIH,914122,"Perma-Pipe International Holdings, Inc.",3
+control:NTWO,NTWO,2028027,Newbury Street II Acquisition Corp,0
+control:NPCT,NPCT,1835068,Nuveen Core Plus Impact Fund,1
+control:SLNH,SLNH,64463,"Soluna Holdings, Inc",32
+control:AIAI,AIAI,2096362,AIAI Holdings Corp,0
+control:ALMU,ALMU,1828805,"Aeluma, Inc.",0
+control:AMRN,AMRN,897448,AMARIN CORP PLC\UK,2937
+control:SCII,SCII,2076739,SC II Acquisition Corp.,4
+control:REFI,REFI,1867949,"Chicago Atlantic Real Estate Finance, Inc.",27
+control:IPVV,IPVV,2105274,"InterPrivate Investment Partners V, Inc.",0
+control:FDCT,FDCT,1722731,"FDCTECH, INC.",19
+control:UPB,UPB,2022626,"Upstream Bio, Inc.",7
+control:IMRX,IMRX,1790340,Immuneering Corp,0
+control:VCRE,VCRE,2124403,Vicore Pharma Holding AB,0
+control:BGIN,BGIN,1945565,BGIN BLOCKCHAIN Ltd,0
+control:CFNB,CFNB,803016,CALIFORNIA FIRST LEASING CORP,0
+control:NWBO,NWBO,1072379,NORTHWEST BIOTHERAPEUTICS INC,449
+control:SBMT,SBMT,2067674,SILVER BOW MINING CORP.,0
+control:AKBA,AKBA,1517022,"Akebia Therapeutics, Inc.",749
+control:TDRRF,TDRRF,1921050,Tudor Gold Corp.,51
+control:SSAC,SSAC,2081300,SPACSphere Acquisition Corp.,0
+control:QTTB,QTTB,1661998,Q32 Bio Inc.,0
+control:BLND,BLND,1855747,"Blend Labs, Inc.",128
+control:SOCA,SOCA,2065948,Solarius Capital Acquisition Corp.,2
+control:PYXS,PYXS,1782223,"Pyxis Oncology, Inc.",1
+control:DYNC,DYNC,2028699,Dynamix Corp,5
+control:TDWD,TDWD,2076616,Tailwind 2.0 Acquisition Corp.,0
+control:ASLE,ASLE,1754170,AerSale Corp,131
+control:ACMIF,ACMIF,2065282,Allied Critical Metals Corp.,0
+control:AENT,AENT,1823584,ALLIANCE ENTERTAINMENT HOLDING CORP,0
+control:MAGH,MAGH,2046117,Magnitude International Ltd,1
+control:EVMN,EVMN,2044725,"Evommune, Inc.",0
+control:CHPT,CHPT,1777393,"ChargePoint Holdings, Inc.",7705
+control:AIBZ,AIBZ,2100457,Bitzero Holdings Inc.,0
+control:DYOR,DYOR,2079292,Insight Digital Partners II,176
+control:BLRK,BLRK,2081532,Bluerock Acquisition Corp.,0
+control:SIGA,SIGA,1010086,SIGA TECHNOLOGIES INC,89
+control:CRAC,CRAC,2070887,Crown Reserve Acquisition Corp. I,1
+control:IRAB,IRAB,2077785,Iris Acquisition Corp II,0
+control:LTGR,LTGR,2104177,Long Table Growth Corp.,2
+control:HHLKF,HHLKF,1562823,Hot Chili Ltd,102
+control:MRCO,MRCO,2106436,Mercator Acquisition Corp.,0
+control:BXSY,BXSY,1059213,BEXIL INVESTMENT TRUST,0
+control:HMH,HMH,2021880,HMH Holding Inc,23
+control:MRBK,MRBK,1750735,Meridian Corp,196
+control:SND,SND,1529628,"Smart Sand, Inc.",276
+control:LGI,LGI,1278211,LAZARD GLOBAL TOTAL RETURN & INCOME FUND INC,35
+control:LMNR,LMNR,1342423,Limoneira CO,28
+control:PLX,PLX,1006281,"Protalix BioTherapeutics, Inc.",338
+control:ALTG,ALTG,1759824,ALTA EQUIPMENT GROUP INC.,19
+control:PTAC,PTAC,2099095,Patriot Acquisition Corp./CI,105
+control:PSF,PSF,1498612,"Cohen & Steers Select Preferred & Income Fund, Inc.",27
+control:PFSTY,PFSTY,2120422,Pfisterer Holdings SE/ADR,0
+control:KISB,KISB,803742,KISH BANCORP INC,0
+control:MAMK,MAMK,2008007,MaxsMaking Inc.,0
+control:SWMR,SWMR,2092574,"Swarmer, Inc",0
+control:OVBC,OVBC,894671,OHIO VALLEY BANC CORP,5
+control:FORR,FORR,1023313,"FORRESTER RESEARCH, INC.",19
+control:EIC,EIC,1754836,Eagle Point Income Co,42
+control:HAVA,HAVA,2042460,Harvard Ave Acquisition Corp,5
+control:LCUT,LCUT,874396,"LIFETIME BRANDS, INC",13
+control:AMWL,AMWL,1393584,American Well Corp,570
+control:PMMCF,PMMCF,1930459,Pampa Metals Corp,8
+control:CMT,CMT,1026655,CORE MOLDING TECHNOLOGIES INC,110
+control:OSS,OSS,1394056,"ONE STOP SYSTEMS, INC.",823
+control:WLII,WLII,2083946,Willow Lane Acquisition Corp. II,0
+control:CZWI,CZWI,1367859,Citizens Community Bancorp Inc.,0
+control:AOUT,AOUT,1808997,"American Outdoor Brands, Inc.",230
+control:EXOD,EXOD,1821534,"Exodus Movement, Inc.",4
+control:TROO,TROO,1412095,"Troops, Inc. /Cayman Islands/",6
+control:BZUN,BZUN,1625414,Baozun Inc.,277
+control:MPAA,MPAA,918251,MOTORCAR PARTS OF AMERICA INC,36
+control:BGS,BGS,1278027,"B&G Foods, Inc.",669
+control:ELDN,ELDN,1404281,"Eledon Pharmaceuticals, Inc.",6
+control:APMC,APMC,2101393,AmperCap Acquisition Co,0
+control:NSLR,NSLR,1509470,Neostellar Capital Corp.,0
+control:LFAC,LFAC,2084563,Leapfrog Acquisition Corp,88
+control:GCTS,GCTS,1851961,"GCT Semiconductor Holding, Inc.",0
+control:DPRO,DPRO,1786286,Draganfly Inc.,267
+control:BAFN,BAFN,1649739,BayFirst Financial Corp.,0
+control:KLTR,KLTR,1432133,KALTURA INC,15
+control:CRNT,CRNT,1119769,CERAGON NETWORKS LTD,352
+control:PERF,PERF,1899830,Perfect Corp.,6
+control:ICTSF,ICTSF,1010134,ICTS INTERNATIONAL N V,2
+control:ACOG,ACOG,1655923,Alpha Cognition Inc.,18
+control:UTKN,UTKN,1919182,Universal Token,0
+control:AUC,AUC,1755058,ATIF Holdings Ltd,37
+control:HLP,HLP,1855557,Hongli Group Inc.,11
+control:TGMPF,TGMPF,2025947,Tantalus Systems Holding Inc.,1
+control:SBFG,SBFG,767405,"SB FINANCIAL GROUP, INC.",2
+control:TETOF,TETOF,1783432,Tectonic Metals Inc.,0
+control:EPSN,EPSN,1726126,Epsilon Energy Ltd.,16
+control:FNWD,FNWD,919864,Finward Bancorp,0
+control:UTGN,UTGN,832480,UTG INC,1
+control:GPAT,GPAT,1834526,GP-Act III Acquisition Corp.,0
+control:DERM,DERM,1867066,Journey Medical Corp,12
+control:PAAC,PAAC,2087446,Proem Acquisition Corp. I,70
+control:WIA,WIA,1254370,WESTERN ASSET INFLATION-LINKED INCOME FUND,3
+control:PED,PED,1141197,PEDEVCO CORP,340
+control:DMB,DMB,1565381,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",19
+control:OPP,OPP,1678130,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",134
+control:NAKA,NAKA,1946573,Nakamoto Inc.,280
+control:NEN,NEN,746514,NEW ENGLAND REALTY ASSOCIATES LIMITED PARTNERSHIP,3
+control:SITC,SITC,894315,SITE Centers Corp.,52
+control:ATER,ATER,1757715,"Aterian, Inc.",18074
+control:ORGO,ORGO,1661181,Organogenesis Holdings Inc.,85
+control:CTAA,CTAA,2094073,Clearthink 1 Acquisition Corp.,2
+control:CMTG,CMTG,1666291,"Claros Mortgage Trust, Inc.",9
+control:MRT,MRT,1852767,"Marti Technologies, Inc.",39
+control:FLWS,FLWS,1084869,1 800 FLOWERS COM INC,366
+control:DFSLY,DFSLY,2038919,Defeng Solife Holdings Limited/ADR,0
+control:ONEW,ONEW,1772921,OneWater Marine Inc.,59
+control:NERV,NERV,1598646,"Minerva Neurosciences, Inc.",794
+control:SDEV,SDEV,1389545,Stablecoin Development Corp,1
+control:CHRS,CHRS,1512762,"Coherus Oncology, Inc.",123
+control:VBF,VBF,5094,Invesco Bond Fund,4
+control:FLC,FLC,1245648,FLAHERTY & CRUMRINE TOTAL RETURN FUND INC,5
+control:JRVR,JRVR,1620459,"James River Group Holdings, Inc.",4
+control:EMYB,EMYB,1449794,"Embassy Bancorp, Inc.",0
+control:NRO,NRO,1261166,NEUBERGER REAL ESTATE SECURITIES INCOME FUND INC,64
+control:VLTLF,VLTLF,1872061,Volt Lithium Corp.,2
+control:LKSP,LKSP,2043508,Lake Superior Acquisition Corp,0
+control:WRIV,WRIV,1328409,WHITE RIVER BANCSHARES CO,0
+control:TBXXF,TBXXF,1785476,King Copper Discovery Corp.,3
+control:MRLN,MRLN,2028707,"Merlin, Inc.",407
+control:SEVN,SEVN,1452477,Seven Hills Realty Trust,1
+control:OCAC,OCAC,1926314,Ocean Capital Acquisition Corp,0
+control:PHCI,PHCI,1620749,Panamera Holdings Corp,114
+control:CDXS,CDXS,1200375,"CODEXIS, INC.",70
+control:CEPS,CEPS,2089536,"Cantor Equity Partners VI, Inc.",4
+control:ABLV,ABLV,1957489,Able View Global Inc.,0
+control:NIU,NIU,1744781,Niu Technologies,1088
+control:EML,EML,31107,EASTERN CO,25
+control:AVXL,AVXL,1314052,ANAVEX LIFE SCIENCES CORP.,568
+control:TSKFF,TSKFF,1803800,Talisker Resources Ltd.,3
+control:APUR,APUR,2093524,Aperture AC,0
+control:VRA,VRA,1495320,"Vera Bradley, Inc.",116
+control:FMBM,FMBM,740806,F&M BANK CORP,1
+control:NYXH,NYXH,1857190,Nyxoah SA,9
+control:DVLT,DVLT,1682149,Datavault AI Inc.,0
+control:ARMP,ARMP,921114,"Armata Pharmaceuticals, Inc.",35
+control:XFLH,XFLH,2088103,XFLH Capital Corp,0
+control:GNT,GNT,1438893,"GAMCO Natural Resources, Gold & Income Trust",6
+control:GRO,GRO,1472326,Brazil Potash Corp.,36
+control:LSBK,LSBK,2059653,"Lake Shore Bancorp, Inc. /MD/",0
+control:CAAS,CAAS,2037400,"China Automotive Systems, Inc.",181
+control:OGI,OGI,1620737,ORGANIGRAM GLOBAL INC.,4154
+control:VTN,VTN,883265,Invesco Trust for Investment Grade New York Municipals,7
+control:UAC,UAC,2098669,United Acquisition Corp. I,13
+control:HOFT,HOFT,1077688,HOOKER FURNISHINGS Corp,40
+control:KRMD,KRMD,704440,"KORU Medical Systems, Inc.",42
+control:SCPQ,SCPQ,2083143,Social Commerce Partners Corp,0
+control:BYND,BYND,1655210,"BEYOND MEAT, INC.",20549
+control:GRX,GRX,1391437,Gabelli Healthcare & WellnessRx Trust,7
+control:SRBK,SRBK,1951276,"SR Bancorp, Inc.",0
+control:BGX,BGX,1504234,Blackstone Long-Short Credit Income Fund,5
+control:GLND,GLND,2093507,Greenland Energy Co,0
+control:CLPR,CLPR,1649096,Clipper Realty Inc.,14
+control:SHIM,SHIM,1887944,Shimmick Corp,0
+control:FPRGF,FPRGF,1555980,Falco Resources Ltd.,5
+control:EWAV,EWAV,2100704,East West Ave Acquisition Corp.,0
+control:FXAC,FXAC,2121703,FortuneX Acquisition Corp,1
+control:ACRG,ACRG,773717,"American Clean Resources Group, Inc.",27
+control:MPA,MPA,891038,BLACKROCK MUNIYIELD PENNSYLVANIA QUALITY FUND,24
+control:HYI,HYI,1497186,Western Asset High Yield Opportunity Fund Inc.,1
+control:ACNT,ACNT,95953,ASCENT INDUSTRIES CO.,3
+control:TNYA,TNYA,1858848,"Tenaya Therapeutics, Inc.",5
+control:HYNE,HYNE,2073153,"Hoyne Bancorp, Inc.",0
+control:BOTJ,BOTJ,1275101,BANK OF THE JAMES FINANCIAL GROUP INC,5
+control:BSCL,BSCL,1109262,"BILI Social International, Inc.",3
+control:PLCI,PLCI,2122392,Pelican Acquisition II Corp,0
+control:BETRF,BETRF,1464165,BetterLife Pharma Inc.,60
+control:CVGI,CVGI,1290900,"Commercial Vehicle Group, Inc.",35
+control:LENZ,LENZ,1815776,"LENZ Therapeutics, Inc.",3
+control:QUMS,QUMS,2070900,Quantumsphere Acquisition Corp,0
+control:RVSB,RVSB,1041368,RIVERVIEW BANCORP INC,3
+control:UMEW,UMEW,1114936,UMeWorld Inc.,0
+control:PNBK,PNBK,1098146,PATRIOT NATIONAL BANCORP INC,9
+control:RANI,RANI,1856725,"Rani Therapeutics Holdings, Inc.",25
+control:STXS,STXS,1289340,"Stereotaxis, Inc.",22
+control:KGFMF,KGFMF,1853889,Kingfisher Metals Corp.,0
+control:WSBK,WSBK,2047235,"Winchester Bancorp, Inc./MD/",0
+control:BSBK,BSBK,1787414,Bogota Financial Corp.,2
+control:UNCY,UNCY,1766140,"Unicycive Therapeutics, Inc.",30
+control:ZENA,ZENA,1997403,"ZenaTech, Inc.",1035
+control:PROV,PROV,1010470,PROVIDENT FINANCIAL HOLDINGS INC,7
+control:LUCD,LUCD,1799011,Lucid Diagnostics Inc.,118
+control:IMDX,IMDX,1642380,Insight Molecular Diagnostics Inc.,0
+control:OPHC,OPHC,1288855,"OptimumBank Holdings, Inc.",22
+control:AXR,AXR,6207,AMREP CORP.,5
+control:FTZFF,FTZFF,1819258,Fitzroy Minerals Inc.,0
+control:PTBS,PTBS,925173,POTOMAC BANCSHARES INC,1
+control:AARD,AARD,1774857,"Aardvark Therapeutics, Inc.",4
+control:FLX,FLX,1858724,BingEx Ltd,2
+control:ULBI,ULBI,875657,ULTRALIFE CORP,7
+control:QSEA,QSEA,2047455,Quartzsea Acquisition Corp,0
+control:CBAT,CBAT,2086841,CBAK Energy Technology Ltd,896
+control:BYFC,BYFC,1001171,BROADWAY FINANCIAL CORP DE,3039
+control:IMUX,IMUX,1280776,"IMMUNIC, INC.",46
+control:DMO,DMO,1478102,Western Asset Mortgage Opportunity Fund Inc.,16
+control:LMRXF,LMRXF,1001500,LARAMIDE RESOURCES LTD,5
+control:VIRC,VIRC,751365,VIRCO MFG CORPORATION,3
+control:TDTH,TDTH,1983550,Trident Digital Tech Holdings Ltd,0
+control:AMAN,AMAN,2112457,Amanat Acquisition Corp.,4
+control:JYNT,JYNT,1612630,JOINT Corp,44
+control:HMR,HMR,2029471,Heidmar Maritime Holdings Corp.,2
+control:SLNG,SLNG,1043186,"Stabilis Solutions, Inc.",50
+control:DAVA,DAVA,1656081,Endava plc,51
+control:CHMI,CHMI,1571776,Cherry Hill Mortgage Investment Corp,42
+control:VATE,VATE,1006837,INNOVATE Corp.,241
+control:KEQU,KEQU,55529,KEWAUNEE SCIENTIFIC CORP /DE/,3
+control:SGLA,SGLA,1433551,Sino Green Land Corp.,0
+control:GRUSF,GRUSF,1463000,Grown Rogue International Inc.,24
+control:VIOT,VIOT,1742770,"Viomi Technology Co., Ltd",92
+control:LPA,LPA,1997711,Logistic Properties of the Americas,10
+control:CNXU,CNXU,2066836,Conexeu Sciences Inc.,0
+control:FNWB,FNWB,1556727,First Northwest Bancorp,0
+control:GRWG,GRWG,1604868,GrowGeneration Corp.,3633
+control:JXG,JXG,1546383,JX Luxventure Group Inc.,2
+control:IGI,IGI,1462586,Western Asset Investment Grade Opportunity Trust Inc.,31
+control:BHM,BHM,1903382,"Bluerock Homes Trust, Inc.",8
+control:AUBN,AUBN,750574,"AUBURN NATIONAL BANCORPORATION, INC",7
+control:FDSB,FDSB,2012726,"Fifth District Bancorp, Inc.",0
+control:NMRA,NMRA,1885522,"Neumora Therapeutics, Inc.",0
+control:MWC,MWC,2083526,"Micware Co., Ltd.",14
+control:GDL,GDL,1378701,GDL FUND,11
+control:HDRN,HDRN,2023730,"Hadron Energy, Inc.",0
+control:RLYB,RLYB,1739410,Rallybio Corp,4
+control:BDCTF,BDCTF,1576159,BuildDirect.com Technologies Inc.,0
+control:CIGL,CIGL,2001794,Concorde International Group Ltd.,295
+control:KSBI,KSBI,912764,KS BANCORP INC,0
+control:TRBG,TRBG,2088375,Turbogen Ltd.,1
+control:BYRN,BYRN,1354866,Byrna Technologies Inc.,75
+control:FTLF,FTLF,1374328,"FITLIFE BRANDS, INC.",1
+control:RPT,RPT,1614806,Rithm Property Trust Inc.,57
+control:SPAI,SPAI,2011208,Safe Pro Group Inc.,1
+control:QDMI,QDMI,1094032,QDM International Inc.,0
+control:FLNT,FLNT,1460329,"Fluent, Inc.",412
+control:FSI,FSI,1069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,88
+control:PMN,PMN,1374339,ProMIS Neurosciences Inc.,26
+control:TGEN,TGEN,1537435,TECOGEN INC.,3
+control:FBSI,FBSI,912967,FIRST BANCSHARES INC /MO/,0
+control:UBCP,UBCP,731653,UNITED BANCORP INC /OH/,3
+control:HNNA,HNNA,1145255,HENNESSY ADVISORS INC,9
+control:XTGRF,XTGRF,1288770,XTRA-GOLD RESOURCES CORP,5
+control:AVAT,AVAT,2092446,Avalanche Treasury Corp,1
+control:USIO,USIO,1088034,"Usio, Inc.",233
+control:YDDL,YDDL,2034723,One & one Green Technologies. INC,0
+control:WSTN,WSTN,2076192,Westin Acquisition Corp,0
+control:CCAQ,CCAQ,2041047,COLLECTIVE ACQUISITION CORP.,0
+control:PDSB,PDSB,1472091,PDS Biotechnology Corp,195
+control:WTG,WTG,2053927,Wintergreen Acquisition Corp.,65
+control:ZOMDF,ZOMDF,1684144,Zomedica Corp.,2436
+control:JOCM,JOCM,1907425,JOCOM HOLDINGS CORP.,0
+control:RFL,RFL,1713863,"Rafael Holdings, Inc.",193
+control:OKYO,OKYO,1849296,OKYO Pharma Ltd,0
+control:ONCY,ONCY,1129928,ONCOLYTICS BIOTECH INC,253
+control:BLNK,BLNK,1429764,Blink Charging Co.,6681
+control:NRT,NRT,72633,NORTH EUROPEAN OIL ROYALTY TRUST,18
+control:VGI,VGI,1528811,Virtus Global Multi-Sector Income Fund,30
+control:REDW,REDW,942895,REDWOOD FINANCIAL INC /MN/,0
+control:NCAUF,NCAUF,1627868,Newcore Gold Ltd.,2
+control:MAIA,MAIA,1878313,"MAIA Biotechnology, Inc.",4
+control:NTIC,NTIC,875582,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,32
+control:MBOT,MBOT,883975,Microbot Medical Inc.,212
+control:LEAT,LEAT,1456189,Leatt Corp,15
+control:DWNX,DWNX,927719,DELHI BANK CORP,0
+control:OSTX,OSTX,1795091,OS Therapies Inc,8
+control:GAMG,GAMG,55234,"Global Asset Management Group, Inc.",17
+control:PSIG,PSIG,1997201,PS International Group Ltd.,0
+control:ASPS,ASPS,1462418,ALTISOURCE PORTFOLIO SOLUTIONS S.A.,116
+control:GDHG,GDHG,1928340,GOLDEN HEAVEN GROUP HOLDINGS LTD.,0
+control:AWLRF,AWLRF,1727254,Awale Resources Ltd,0
+control:RNTX,RNTX,1420565,"Rein Therapeutics, Inc.",7
+control:GLBS,GLBS,1499780,GLOBUS MARITIME LTD,813
+control:NMAD,NMAD,1335105,"NOMAD POWER SOLUTIONS, INC.",0
+control:SLQT,SLQT,1794783,"SelectQuote, Inc.",623
+control:HFUS,HFUS,1482554,"Hartford Creative Group, Inc.",0
+control:IMAQ,IMAQ,1846235,International Media Acquisition Corp.,48
+control:WFCF,WFCF,1360565,"Where Food Comes From, Inc.",9
+control:DMA,DMA,1523289,Destra Multi-Alternative Fund,1356
+control:MYO,MYO,1369290,"MYOMO, INC.",119
+control:GNSS,GNSS,924383,Genasys Inc.,57
+control:KXIN,KXIN,1713539,Kaixin Holdings,506
+control:GOSS,GOSS,1728117,"Gossamer Bio, Inc.",40
+control:ESYN,ESYN,1897245,HWH International Inc.,1
+control:PMVC,PMVC,1807765,PMV Consumer Acquisition Corp.,238
+control:GGR,GGR,1886190,Gogoro Inc.,347
+control:WNW,WNW,1787803,Meiwu Technology Co Ltd,323
+control:ANTA,ANTA,2044255,Antalpha Platform Holding Co,5
+control:YIBO,YIBO,1868395,Planet Image International Ltd,0
+control:INKT,INKT,1840229,"MiNK Therapeutics, Inc.",6
+control:FMFG,FMFG,1698022,"Farmers & Merchants Bancshares, Inc.",1
+control:AURX,AURX,1091596,"Nuo Therapeutics, Inc.",6
+control:YARRF,YARRF,2099818,Pirate Gold Corp.,0
+control:PVL,PVL,1520048,Permianville Royalty Trust,69
+control:PGZ,PGZ,1557523,Principal Real Estate Income Fund,4
+control:MDNC,MDNC,1931055,Medinotec Inc.,0
+control:ZOOZ,ZOOZ,1992818,ZOOZ Strategy Ltd.,0
+control:CNTB,CNTB,1835268,Connect Biopharma Holdings Ltd,18
+control:STFS,STFS,2003061,Star Fashion Culture Holdings Ltd,8
+control:TGE,TGE,2053456,Generation Essentials Group,104
+control:WSHP,WSHP,2048271,WeShop Holdings Ltd,0
+control:AMTD,AMTD,1769731,AMTD IDEA GROUP,656
+control:ZTEKF,ZTEKF,1904501,Zentek Ltd.,14
+control:AZASF,AZASF,1701599,Arizona Gold & Silver Inc.,0
+control:TEAD,TEAD,1454938,Teads Holding Co.,2
+control:KVACF,KVACF,1889983,Keen Vision Acquisition Corp.,0
+control:NKGFF,NKGFF,1839154,Nevada King Gold Corp.,0
+control:YTRA,YTRA,1516899,"Yatra Online, Inc.",66
+control:PGAC,PGAC,2030829,PANTAGES CAPITAL ACQUISITION Corp,0
+control:KANP,KANP,1230058,KAANAPALI LAND LLC,0
+control:LGO,LGO,1400438,Largo Inc.,150
+control:TPCS,TPCS,1328792,TECHPRECISION CORP,6
+control:APWC,APWC,1026980,ASIA PACIFIC WIRE & CABLE CORP LTD,66
+control:FBDT,FBDT,1892704,"First Breach, Inc.",0
+control:ALDX,ALDX,1341235,"Aldeyra Therapeutics, Inc.",81
+control:XPL,XPL,917225,SOLITARIO RESOURCES CORP.,152
+control:EXOZ,EXOZ,2010788,EXOZYMES INC.,0
+control:NCTY,NCTY,1296774,The9 LTD,436
+control:BRKCF,BRKCF,1019742,BARKSDALE RESOURCES CORP.,0
+control:AACG,AACG,1420529,ATA Creativity Global,1252
+control:LIDR,LIDR,1818644,"AEye, Inc.",635
+control:DWTX,DWTX,1818844,"Dogwood Therapeutics, Inc.",0
+control:SCWO,SCWO,933972,374Water Inc.,2
+control:SMJF,SMJF,2070954,SMJ International Holdings Inc.,0
+control:ELTX,ELTX,1601485,"Elicio Therapeutics, Inc.",5
+control:LOMLF,LOMLF,1509397,Lion One Metals Ltd.,2
+control:CELU,CELU,1752828,Celularity Inc,144
+control:ALCYF,ALCYF,1901336,Alchemy Investments Acquisition Corp 1,0
+control:POCI,POCI,867840,"PRECISION OPTICS CORPORATION, INC.",0
+control:SRTS,SRTS,1494891,"Sensus Healthcare, Inc.",25
+control:PAAI,PAAI,894871,"Paradium.AI, Inc.",0
+control:AIFA,AIFA,1708341,"All In FutureTech Alliance, Inc.",1
+control:RPID,RPID,1380106,"RAPID MICRO BIOSYSTEMS, INC.",5
+control:BEWFF,BEWFF,1113152,BEWHERE HOLDINGS INC,3
+control:LRDC,LRDC,1442492,"Laredo Oil, Inc.",17
+control:LASE,LASE,1807887,Laser Photonics Corp,3
+control:SNSC,SNSC,2101240,SunScout Holding Ltd,0
+control:BYAH,BYAH,1986247,"Park Ha Biological Technology Co., Ltd.",2
+control:FMY,FMY,1319183,FIRST TRUST MORTGAGE INCOME FUND,8
+control:XTNT,XTNT,1453593,"Xtant Medical Holdings, Inc.",203
+control:NSRX,NSRX,2029039,Nasus Pharma Ltd,0
+control:SNWV,SNWV,1417663,"SANUWAVE Health, Inc.",30
+control:MBBC,MBBC,1835385,"Marathon Bancorp, Inc. /MD/",0
+control:SOWG,SOWG,1490161,Sow Good Inc.,1
+control:CVRX,CVRX,1235912,"CVRx, Inc.",7
+control:BNAI,BNAI,1838163,Brand Engagement Network Inc.,0
+control:CRSF,CRSF,924396,Crisp Momentum Inc.,0
+control:ADTI,ADTI,1420924,"Adapti, Inc.",1
+control:AVX,AVX,1826397,AVAX ONE TECHNOLOGY LTD.,26
+control:LITS,LITS,1262104,"Lite Strategy, Inc.",0
+control:FNUC,FNUC,1769697,Frontier Nuclear & Minerals Inc.,0
+control:VERU,VERU,863894,VERU INC.,512
+control:SQNS,SQNS,1383395,SEQUANS COMMUNICATIONS,38
+control:RYM,RYM,1800637,"RYTHM, Inc.",82
+control:KAZR,KAZR,2031009,Skyline Builders Group Holding Ltd,0
+control:DRYGF,DRYGF,2006413,Dryden Gold Corp.,0
+control:SDA,SDA,1936804,SunCar Technology Group Inc.,28
+control:TETEF,TETEF,1900679,Technology & Telecommunication Acquisition Corp,0
+control:ZBAO,ZBAO,1966750,Zhibao Technology Inc.,0
+control:BTMD,BTMD,1819253,biote Corp.,10
+control:FSHP,FSHP,1850059,Flag Ship Acquisition Corp,0
+control:IXHL,IXHL,1873875,Incannex Healthcare Inc.,41
+control:NOEM,NOEM,1956648,CO2 Energy Transition Corp.,2
+control:MGX,MGX,1785279,"Metagenomi Therapeutics, Inc.",10
+control:YSXT,YSXT,1993463,"YSX Tech Co., Ltd",0
+control:CYPA,CYPA,1917993,Cyphaira Corp.,0
+control:AFJK,AFJK,1979005,"Aimei Health Technology Co., Ltd.",0
+control:QNTO,QNTO,1391933,"QUAINT OAK BANCORP, INC.",0
+control:SPMEF,SPMEF,2056030,South Pacific Metals Corp.,0
+control:NEPH,NEPH,1196298,NEPHROS INC,5
+control:RIBB,RIBB,2035016,Ribbon Acquisition Corp.,0
+control:MCAG,MCAG,1859035,Mountain Crest Acquisition Corp. V,0
+control:BAER,BAER,1941536,"Bridger Aerospace Group Holdings, Inc.",3
+control:STRR,STRR,1210708,"Star Equity Holdings, Inc.",43
+control:MLCI,MLCI,2051820,Mount Logan Capital Inc.,0
+control:TIGCF,TIGCF,1387473,Triumph Gold Corp.,0
+control:EHLD,EHLD,2032779,Euroholdings Ltd.,0
+control:RYET,RYET,1873454,Ruanyun Edai Technology Inc.,0
+control:STG,STG,1723935,Sunlands Technology Group,192
+control:BCTX,BCTX,1610820,BriaCell Therapeutics Corp.,437
+control:RPGL,RPGL,1912884,Republic Power Group Ltd,0
+control:FGC,FGC,1591890,FG Nexus Inc.,15
+control:BRIA,BRIA,2000230,BrilliA Inc,2
+control:ELUT,ELUT,1708527,ELUTIA INC.,0
+control:BIOF,BIOF,1549145,"BLUE BIOFUELS, INC.",8
+control:YOUL,YOUL,2028177,Youlife Group Inc.,3
+control:PLUT,PLUT,1933021,Plutus Financial Group Ltd,5
+control:ALGS,ALGS,1799448,"Aligos Therapeutics, Inc.",17
+control:COSM,COSM,1474167,Cosmos Health Inc.,12
+control:EAIQ,EAIQ,1807689,"Eyeonix AIQ, Inc.",0
+control:RSRV,RSRV,83350,RESERVE PETROLEUM CO,0
+control:ARBK,ARBK,1841675,Argo Blockchain Plc,647
+control:NSYS,NSYS,722313,NORTECH SYSTEMS INC,31
+control:INIS,INIS,1038277,RADNOSTIX INC,275
+control:USGDF,USGDF,1726159,AMERICAN PACIFIC MINING CORP,12
+control:VTSI,VTSI,1085243,"VirTra, Inc",105
+control:CNF,CNF,1733868,CNFinance Holdings Ltd.,17
+control:ATCMF,ATCMF,1567663,ATICO MINING Corp,1
+control:CVV,CVV,766792,CVD EQUIPMENT CORP,58
+control:NPRFF,NPRFF,1859022,Nepra Foods Inc.,4
+control:VIRMF,VIRMF,2074745,Viridian Metals Inc.,0
+control:DAIO,DAIO,351998,DATA I/O CORP,10
+control:ANPA,ANPA,2031688,Rich Sparkle Holdings Ltd,0
+control:PRHI,PRHI,1502292,"Presurance Holdings, Inc.",0
+control:CNTX,CNTX,1842952,Context Therapeutics Inc.,319
+control:IGC,IGC,1326205,"IGC Pharma, Inc.",683
+control:MNY,MNY,1974044,MoneyHero Ltd,2
+control:CNTY,CNTY,911147,CENTURY CASINOS INC /CO/,165
+control:NOMA,NOMA,1994214,Nomadar Corp.,5
+control:MCRB,MCRB,1609809,"Seres Therapeutics, Inc.",202
+control:KDKGF,KDKGF,872699,KLONDIKE GOLD CORP /FI,3
+control:PETV,PETV,1512922,"PetVivo Holdings, Inc.",37
+control:VIPRF,VIPRF,1684662,SILVER VIPER MINERALS CORP.,4
+control:CPIVF,CPIVF,1712294,CAPTIVA VERDE WELLNESS CORP.,11
+control:IEGCF,IEGCF,1537317,Independence Gold Corp.,0
+control:CLRCF,CLRCF,1903392,ClimateRock,0
+control:AEI,AEI,1750106,Alset Inc.,684
+control:NXTC,NXTC,1661059,"NextCure, Inc.",58
+control:NSPR,NSPR,1433607,"InspireMD, Inc.",1091
+control:HLEO,HLEO,1953988,Helio Corp /FL/,0
+control:TTIPF,TTIPF,1877778,"Thiogenesis Therapeutics, Corp.",0
+control:STSBF,STSBF,1307926,South Star Battery Metals Corp.,17
+control:MODD,MODD,1074871,"Modular Medical, Inc.",11
+control:NXPL,NXPL,1058307,NextPlat Corp,1
+control:INIKF,INIKF,1928722,PopReach Corp,4
+control:BLGO,BLGO,880242,"BIOLARGO, INC.",396
+control:ATOS,ATOS,1488039,"ATOSSA THERAPEUTICS, INC.",12035
+control:REFR,REFR,793524,RESEARCH FRONTIERS INC,43
+control:ORIO,ORIO,1602842,Orion Digital Corp.,0
+control:STCB,STCB,1539850,"Starco Brands, Inc.",1
+control:GOVB,GOVB,1978811,"Gouverneur Bancorp, Inc./MD/",0
+control:JAGU,JAGU,2039273,Jaguar Uranium Corp.,0
+control:RDGL,RDGL,1449349,VIVOS INC,194
+control:FEDU,FEDU,1709819,Four Seasons Education (Cayman) Inc.,110
+control:BDMD,BDMD,1982444,Baird Medical Investment Holdings Ltd,0
+control:MCUJF,MCUJF,1133519,MEDICURE INC,4
+control:BSAA,BSAA,2051587,BEST SPAC I Acquisition Corp.,0
+control:CNTM,CNTM,1895249,"ConnectM Technology Solutions, Inc.",1
+control:EMGDF,EMGDF,1790607,Eminent Gold Corp.,0
+control:PLRZ,PLRZ,1893645,Polyrizon Ltd.,12
+control:COOT,COOT,1959994,Australian Oilseeds Holdings Ltd,1
+control:VCGMF,VCGMF,1650196,Visionary Copper & Gold Mines Inc.,0
+control:HKIT,HKIT,1742341,"Biddance AI Systems, Inc.",2
+control:QNRX,QNRX,1671502,Quoin Pharmaceuticals Ltd.,45
+control:INLX,INLX,1081745,"INTELLINETICS, INC.",4
+control:IBATF,IBATF,1786318,INTERNATIONAL BATTERY METALS LTD.,403
+control:TLF,TLF,909724,TANDY LEATHER FACTORY INC,9
+control:MOBX,MOBX,1855467,"MOBIX LABS, INC",0
+control:AZIO,AZIO,1563568,"AZIO AI HOLDINGS, INC.",0
+control:EFOI,EFOI,924168,"ENERGY FOCUS, INC/DE",310
+control:FKYS,FKYS,737875,FIRST KEYSTONE CORP,2
+control:AKTX,AKTX,1541157,Akari Therapeutics Plc,56
+control:EHSI,EHSI,1089815,Elite Health Systems Inc.,0
+control:EXHI,EXHI,1949283,Exlites Holdings International Inc,3
+control:GTHP,GTHP,924515,GUIDED THERAPEUTICS INC,7
+control:VNTG,VNTG,2027160,Vantage Corp (Singapore),0
+control:ASFH,ASFH,1828748,ASIAFIN HOLDINGS CORP.,0
+control:ZTG,ZTG,2011458,Zenta Group Co Ltd,0
+control:IRVRF,IRVRF,1666782,Irving Resources Inc.,1
+control:SGRP,SGRP,1004989,"SPAR Group, Inc.",49
+control:ACTU,ACTU,1652935,"ACTUATE THERAPEUTICS, INC.",0
+control:PRZO,PRZO,1916241,ParaZero Technologies Ltd.,0
+control:TRSG,TRSG,1943444,Tungray Technologies Inc,0
+control:LRRIF,LRRIF,1992500,Lion Rock Resources Inc.,0
+control:TCRX,TCRX,1783328,"TScan Therapeutics, Inc.",10
+control:VUECF,VUECF,2111453,Verdera Energy Corp.,0
+control:KDOZF,KDOZF,1318482,KIDOZ INC.,15
+control:STQN,STQN,847942,STRATEGIC ACQUISITIONS INC /NV/,5
+control:REBN,REBN,1707910,"Reborn Coffee, Inc.",0
+control:TRXA,TRXA,1437750,T-REX Acquisition Corp.,0
+control:KPEA,KPEA,1502557,Kun Peng International Ltd.,0
+control:DUKR,DUKR,1638911,DUKE Robotics Corp.,13
+control:BCG,BCG,1953984,"Binah Capital Group, Inc.",367
+control:LFWD,LFWD,1607962,Lifeward Ltd.,0
+control:ALGRF,ALGRF,1703292,KENADYR METALS CORP,0
+control:STLY,STLY,797465,"HG Holdings, Inc.",13
+control:GRLMF,GRLMF,2055938,GreenLight Metals Inc.,0
+control:DQWS,DQWS,1652561,DSwiss Inc,2
+control:CHKR,CHKR,1524769,CHESAPEAKE GRANITE WASH TRUST,9
+control:EMBYF,EMBYF,1487615,Nexera Energy Inc.,0
+control:BHSIF,BHSIF,1432588,BAYHORSE SILVER INC.,21
+control:EPSM,EPSM,1883437,Epsium Enterprise Ltd,0
+control:FABC,FABC,1086745,"Fabric.AI, Inc.",0
+control:RAFX,RAFX,2152921,Rafex Gold Corp.,0
+control:STLNF,STLNF,1729653,Stallion Uranium Corp.,0
+control:EDTK,EDTK,1782309,Skillful Craftsman Education Technology Ltd,48
+control:SCAG,SCAG,2000366,Scage Future,0
+control:LIQT,LIQT,1307579,LIQTECH INTERNATIONAL INC,28
+control:LICN,LICN,1876766,Lichen International Ltd,14
+control:TWOSF,TWOSF,877028,T2 Metals Corp.,0
+control:MDWK,MDWK,1295514,"MDWerks, Inc.",0
+control:YTFD,YTFD,1311673,"Yale Transaction Finders, Inc.",0
+control:VEEA,VEEA,1840317,VEEA INC.,0
+control:FGI,FGI,1864943,FGI Industries Ltd.,42
+control:LGVT,LGVT,787496,"Longevity Diversified Holdings, Inc.",3
+control:KTTA,KTTA,1841330,Pasithea Therapeutics Corp.,236
+control:RLBY,RLBY,34285,RELIABILITY INC,253
+control:GIGM,GIGM,1105101,GIGAMEDIA Ltd,25
+control:SUNE,SUNE,22701,"SUNation Energy, Inc.",106
+control:CLRB,CLRB,1279704,"Cellectar Biosciences, Inc.",205
+control:BRFH,BRFH,1487197,BARFRESH FOOD GROUP INC.,20
+control:SMSI,SMSI,948708,"SMITH MICRO SOFTWARE, INC.",81
+control:VIPZ,VIPZ,1832161,"VIP Play, Inc.",0
+control:DGCOF,DGCOF,1809267,Daura Capital Corp.,0
+control:MTEX,MTEX,1056358,MANNATECH INC,18
+control:LTRN,LTRN,1763950,Lantern Pharma Inc.,59
+control:BTLN,BTLN,1854445,"Brightline Interactive, Inc./NV",2
+control:DLPN,DLPN,1282224,"Dolphin Entertainment, Inc.",1185
+control:BKUCF,BKUCF,1463978,BLUE SKY URANIUM CORP.,23
+control:BITTF,BITTF,1028357,BITTERROOT RESOURCES LTD,2
+control:INAB,INAB,1740279,"IN8BIO, INC.",1
+control:GMVMF,GMVMF,1495730,GMV Minerals Inc.,0
+control:IHT,IHT,82473,INNSUITES HOSPITALITY TRUST,87
+control:EBON,EBON,1799290,Ebang International Holdings Inc.,2827
+control:HUIZ,HUIZ,1778982,Huize Holding Ltd,125
+control:TRUFF,TRUFF,1836747,Red Light Holland Corp.,373
+control:NGLD,NGLD,1605481,Nevada Canyon Gold Corp.,3
+control:NEWH,NEWH,1371128,"NewHydrogen, Inc.",27
+control:CTSO,CTSO,1175151,Cytosorbents Corp,66
+control:PEXZF,PEXZF,1254435,PACIFIC RIDGE EXPLORATION LTD,0
+control:UFG,UFG,2021688,Uni-Fuels Holdings Ltd,0
+control:CMCT,CMCT,908311,Creative Media & Community Trust Corp,9
+control:ICGSF,ICGSF,2123553,ICG Silver & Gold Ltd.,0
+control:PLUR,PLUR,1158780,Pluri Inc.,57
+control:FRTT,FRTT,2092967,Fort Technology Inc,5
+control:GEBRF,GEBRF,1570843,Greenbriar Sustainable Living Inc.,10
+control:HODO,HODO,1903595,House of Doge Inc.,9
+control:RGNT,RGNT,1912966,REGENTIS BIOMATERIALS LTD.,0
+control:CSRVF,CSRVF,1910903,Scotia Metals Corp.,1
+control:ELECF,ELECF,1817083,Electric Royalties Ltd.,5
+control:BLRX,BLRX,1498403,BioLineRx Ltd.,319
+control:CLRO,CLRO,840715,CLEARONE INC,34
+control:KPRX,KPRX,1372514,KIORA PHARMACEUTICALS INC,14
+control:FRECF,FRECF,1816133,Frequency Exchange Corp.,0
+control:RSMXF,RSMXF,1858994,Regency Silver Corp.,0
+control:NTZ,NTZ,900391,NATUZZI S P A,47
+control:OTLC,OTLC,908259,"Oncotelic Therapeutics, Inc.",155
+control:MSGY,MSGY,2020228,Masonglory Ltd,0
+control:XCRT,XCRT,1138586,"Xcelerate, Inc.",2
+control:LTHIF,LTHIF,1364252,InZinc Mining Ltd.,0
+control:RDUFF,RDUFF,1113260,RADIUS GOLD INC.,0
+control:VPLM,VPLM,1410738,Voip-pal.com Inc,58
+control:JCTC,JCTC,885307,JEWETT CAMERON TRADING CO LTD,0
+control:MSAI,MSAI,1863990,"MultiSensor AI Holdings, Inc.",0
+control:CMMB,CMMB,1534248,Chemomab Therapeutics Ltd.,193
+control:ZCRMF,ZCRMF,1425061,Golden Cross Resources Inc.,0
+control:CALC,CALC,1534133,"CalciMedica, Inc.",14
+control:NSURF,NSURF,2002326,North Shore Uranium Ltd.,3
+control:WVVI,WVVI,838875,WILLAMETTE VALLEY VINEYARDS INC,34
+control:MILIF,MILIF,1866460,Military Metals Corp.,0
+control:MGRX,MGRX,1938046,"MANGOCEUTICALS, INC.",0
+control:ALRTF,ALRTF,1930419,ALR Technologies SG Ltd.,0
+control:NDRA,NDRA,1681682,ENDRA Life Sciences Inc.,391
+control:FMST,FMST,1935418,Foremost Clean Energy Ltd.,2
+control:ECTM,ECTM,1487798,ECA Marcellus Trust I,5
+control:BIYA,BIYA,1944712,Baiya International Group Inc.,1
+control:LZMH,LZMH,1967397,LZ Technology Holdings Ltd,0
+control:NAII,NAII,787253,NATURAL ALTERNATIVES INTERNATIONAL INC,1
+control:INEO,INEO,1933951,INNEOVA Holdings Ltd,8
+control:MYSE,MYSE,1648960,"Myseum.AI, Inc.",1
+control:GLE,GLE,1908705,Global Engine Group Holding Ltd,67
+control:NAMI,NAMI,1967631,Jinxin Technology Holding Co,21
+control:HCTI,HCTI,1839285,"Healthcare Triangle, Inc.",17
+control:CMHSF,CMHSF,1889352,COMPREHENSIVE HEALTHCARE SYSTEMS INC. (CANADA),0
+control:TBLLF,TBLLF,1854257,Tombill Mines Ltd,0
+control:IVFH,IVFH,312257,INNOVATIVE FOOD HOLDINGS INC,29
+control:FEBO,FEBO,1957001,Fenbo Holdings Ltd,0
+control:ALDS,ALDS,1755101,APPlife Digital Solutions Inc,6
+control:RVSN,RVSN,1743905,Rail Vision Ltd.,1
+control:ZCMD,ZCMD,1785566,Zhongchao Inc.,28
+control:BCUFF,BCUFF,1477201,Bell Copper Corp,1
+control:ARBB,ARBB,1930179,ARB IOT Group Ltd,0
+control:CURX,CURX,2025942,Curanex Pharmaceuticals Inc,0
+control:LOBO,LOBO,1932072,LOBO TECHNOLOGIES LTD.,1
+control:APHP,APHP,1771995,American Picture House Corp,3
+control:VYND,VYND,1745078,"Vynleads, Inc.",0
+control:AQMS,AQMS,1621832,"Aqua Metals, Inc.",807
+control:LSEB,LSEB,1888740,LSEB Creative Corp.,0
+control:ELOG,ELOG,2013320,Eastern International Ltd.,0
+control:GWAV,GWAV,1589149,"Greenwave Technology Solutions, Inc.",0
+control:KNRX,KNRX,1982960,KNOREX LTD.,0
+control:CELZ,CELZ,1187953,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",1699
+control:DEVSF,DEVSF,1854480,DevvStream Corp.,0
+control:EVGN,EVGN,1574565,Evogene Ltd.,140
+control:CCTG,CCTG,1931717,CCSC Technology International Holdings Ltd,0
+control:IMNN,IMNN,749647,"Imunon, Inc.",0
+control:RVPH,RVPH,1742927,"REVIVA PHARMACEUTICALS HOLDINGS, INC.",38
+control:CGTL,CGTL,1967822,Creative Global Technology Holdings Ltd,0
+control:ONEI,ONEI,1388295,OneMeta Inc.,0
+control:DTSS,DTSS,2110423,Datasea Intelligent Technology Ltd.,64
+control:AHNRF,AHNRF,1304409,ATHENA GOLD CORP,4
+control:TRLEF,TRLEF,1648636,Dune Oil Corp.,0
+control:THURF,THURF,1536811,Thunderstruck Resources Ltd.,0
+control:INNPF,INNPF,1889791,INNOCAN PHARMA Corp,82
+control:CLGN,CLGN,1631487,CollPlant Biotechnologies Ltd,26
+control:SONM,SONM,1178697,"DNA X, Inc.",516
+control:GELS,GELS,1920092,Gelteq Ltd,3
+control:KLYG,KLYG,1372114,"Kelyniam Global, Inc.",36
+control:VEEE,VEEE,1855509,"Twin Vee PowerCats, Co.",28
+control:LYTHF,LYTHF,1816319,Lytus Technologies Holdings PTV. Ltd.,0
+control:SBDS,SBDS,1870600,"Solo Brands, Inc.",1
+control:DAIC,DAIC,2033770,"CID Holdco, Inc.",0
+control:DXYN,DXYN,29332,DIXIE GROUP INC,327
+control:SNOA,SNOA,1367083,"Sonoma Pharmaceuticals, Inc.",108
+control:NVNO,NVNO,1661053,enVVeno Medical Corp,1
+control:GDC,GDC,1641398,GD Culture Group Ltd,29
+control:SRRE,SRRE,1083490,SUNRISE REAL ESTATE GROUP INC,0
+control:XTLB,XTLB,1023549,XTL BIOPHARMACEUTICALS LTD,58
+control:CRE,CRE,2003977,Cre8 Enterprise Ltd,473
+control:ILXP,ILXP,1115864,ECOMINAS CORP.,0
+control:GAUZ,GAUZ,1781446,Gauzy Ltd.,4
+control:AMBO,AMBO,1494558,Ambow Education Holding Ltd.,319
+control:LNAI,LNAI,1527728,Lunai Bioworks Inc.,0
+control:RENX,RENX,1959023,RenX Enterprises Corp.,6
+control:EGMCF,EGMCF,1199392,EMERGENT METALS CORP.,4
+control:LIMN,LIMN,1971387,"Liminatus Pharma, Inc.",1
+control:KIQSF,KIQSF,1161814,KELSO TECHNOLOGIES INC,16
+control:AKAN,AKAN,1888014,AKANDA CORP.,13
+control:POAS,POAS,2024258,PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd,0
+control:POLA,POLA,1622345,"Polar Power, Inc.",358
+control:DEFG,DEFG,1874907,Grayscale Decentralized Finance (DeFi) Fund LLC,3
+control:SNTG,SNTG,1810467,Sentage Holdings Inc.,40
+control:USAQ,USAQ,856984,"QHSLab, Inc.",15
+control:FBGL,FBGL,1938534,FBS Global Ltd,0
+control:STME,STME,1493712,Stimcell Energetics Inc.,0
+control:DXST,DXST,1958133,Decent Holding Inc.,0
+control:ROIUF,ROIUF,1736289,Route1 Inc.,3
+control:INTJ,INTJ,1916416,Intelligent Group Ltd,32
+control:LCFY,LCFY,1875547,Locafy Ltd,1
+control:DBGI,DBGI,1668010,"Digital Brands Group, Inc.",140
+control:FCUV,FCUV,1590418,FOCUS UNIVERSAL INC.,82
+control:XPON,XPON,1894954,"Expion Energy, Inc.",0
+control:UZX,UZX,1969401,Linkage Global Inc,1
+control:PCSA,PCSA,1533743,"Processa Pharmaceuticals, Inc.",20
+control:RETO,RETO,1687277,"ReTo Eco-Solutions, Inc.",177
+control:SMX,SMX,1940674,SMX (Security Matters) Public Ltd Co,1
+control:VMAR,VMAR,1813783,Vision Marine Technologies Inc.,160
+control:TAOP,TAOP,1552670,Taoping Inc.,166
+control:EJH,EJH,1769768,E-Home Household Service Holdings Ltd,126
+control:ILLR,ILLR,1769624,Triller Group Inc.,412
+control:GRHI,GRHI,894501,"GOLD ROCK HOLDINGS, INC.",0
+control:HNOI,HNOI,1342916,"HNO International, Inc.",0
+control:BMXI,BMXI,1122993,BROOKMOUNT EXPLORATIONS INC,23
+control:HCWB,HCWB,1828673,HCW Biologics Inc.,22
+control:MLEC,MLEC,1937737,Moolec Science SA,0
+control:CHR,CHR,1738758,"Cheer Holding, Inc.",83
+control:VIIQ,VIIQ,1470129,VisitIQ Corp.,0
+control:VIVS,VIVS,1497253,"VivoSim Labs, INC.",0
+control:CRUCF,CRUCF,1734427,Colibri Resource Corp,0
+control:APVO,APVO,1671584,Aptevo Therapeutics Inc.,223
+control:OCG,OCG,1776067,Oriental Culture Holding LTD,238
+control:CTTH,CTTH,1035422,"CTT PHARMACEUTICAL HOLDINGS, INC.",17
+control:SDST,SDST,1831979,Stardust Power Inc.,0
+control:XRTX,XRTX,1729214,XORTX Therapeutics Inc.,53
+control:WHLT,WHLT,1025771,CHASE PACKAGING CORP,0
+control:PRFX,PRFX,1801834,PRF Technologies Ltd.,42
+control:VERTF,VERTF,1178526,Vertiqal Studios Corp.,0
+control:ONCO,ONCO,1782107,"Onconetix, Inc.",9
+control:CMND,CMND,1892500,Clearmind Medicine Inc.,10
+control:LXEH,LXEH,1814067,Lixiang Education Holding Co. Ltd.,41
+control:VIVK,VIVK,1450704,"Vivakor, Inc.",6
+control:HGTXU,HGTXU,862022,HUGOTON ROYALTY TRUST,5
+control:TOPP,TOPP,1960847,Toppoint Holdings Inc.,38
+control:AGNPF,AGNPF,1642178,Grey Matters Health Inc.,82
+control:ABCFF,ABCFF,1284237,ABACUS MINING & EXPLORATION CORP,2
+control:NCI,NCI,1916331,Neo-Concept International Group Holdings Ltd,54
+control:LIFD,LIFD,1391135,LFTD PARTNERS INC.,0
+control:ELPW,ELPW,2015691,Elong Power Holding Ltd.,0
+control:PWCM,PWCM,1640384,"POWERCOMPUTE, INC.",0
+control:OHCFF,OHCFF,1735514,Light AI Inc.,0
+control:TUTH,TUTH,1178660,Standard Dental Labs Inc.,0
+control:IZM,IZM,1854572,ICZOOM Group Inc.,0
+control:LBSR,LBSR,1172178,LIBERTY STAR URANIUM & METALS CORP.,49
+control:PWDY,PWDY,1435617,"POWERDYNE INTERNATIONAL, INC.",1
+control:REOS,REOS,1335288,ReoStar Energy CORP,11
+control:IWSH,IWSH,1279715,"Wright Investors Service Holdings, Inc.",2
+control:MMEX,MMEX,1440799,MMEX Resources Corp,539
+control:GNLN,GNLN,1743745,"Greenlane Holdings, Inc.",537
+control:CIMG,CIMG,1527613,CIMG Inc.,0
+control:ATPC,ATPC,1713210,Agape ATP Corp,0
+control:ABPO,ABPO,1893219,"Abpro Holdings, Inc.",0
+control:ABVEF,ABVEF,1979484,Above Food Ingredients Inc.,0
+control:RAYA,RAYA,1825875,Erayak Power Solution Group Inc.,2
+control:CRCE,CRCE,1911467,"Circle Energy, Inc./NV",0
+control:NEXR,NEXR,1885408,Nexera Technologies Ltd,5
+control:EARI,EARI,1083468,"ENTERTAINMENT ARTS RESEARCH, INC.",2
+control:NXGL,NXGL,1468929,"NEXGEL, INC.",8
+control:SBFM,SBFM,1402328,Sunshine Biopharma Inc.,425
+control:BRVO,BRVO,1444839,Bravo Multinational Inc.,8
+control:SQFT,SQFT,1080657,"Presidio Property Trust, Inc.",57
+control:ATXI,ATXI,1644963,"AVENUE THERAPEUTICS, INC.",81
+control:MVNC,MVNC,1439264,Marvion Inc.,3
+control:GCTK,GCTK,1506983,"Glucotrack, Inc.",0
+control:GENN,GENN,1745621,Genneia S.A.,21
+control:SKVI,SKVI,1085277,"SKINVISIBLE, INC.",0
+control:DCOY,DCOY,1615219,Decoy Therapeutics Inc.,0
+control:EVFM,EVFM,1618835,"Evofem Biosciences, Inc.",1876
+control:BMTM,BMTM,1568385,"Bright Mountain Media, Inc.",3
+control:NATNF,NATNF,2096533,Nation Gold Corp.,0
+control:CDIX,CDIX,811222,Cardiff Lexington Corp,16
+control:YBGJ,YBGJ,895464,Yubo International Biotech Ltd,3
+control:LRHC,LRHC,1879403,La Rosa Holdings Corp.,2
+control:HLSQ,HLSQ,1739174,Tessera Defense & Homeland Security Inc.,0
+control:EEGI,EEGI,1043150,"Eline Entertainment Group, Inc.",170
+control:MNTR,MNTR,1599117,"Mentor Capital, Inc.",7
+control:PNYG,PNYG,1784058,Pony Group Inc.,0
+control:RMTG,RMTG,1760026,Regenerative Medical Technology Group Inc.,0
+control:NPHC,NPHC,1119643,NUTRA PHARMA CORP,93
+control:DBMM,DBMM,1127475,"Digital Brand Media & Marketing Group, Inc.",14
+control:SUGP,SUGP,1969863,SU Group Holdings Ltd,0
+control:BDRX,BDRX,1643918,Biodexa Pharmaceuticals Plc,0
+control:LUDG,LUDG,1960262,"LUDWIG ENTERPRISES, INC.",12
+control:GFMH,GFMH,820771,Goliath Film & Media Holdings,3
+control:CYTOF,CYTOF,1601936,Altamira Therapeutics Ltd.,13
+control:NSTM,NSTM,912544,NovelStem International Corp.,0
+control:AERA,AERA,1605331,AI Era Corp.,1
+control:AMZE,AMZE,1880343,"AMAZE HOLDINGS, INC.",62
+control:RBOT,RBOT,1812173,Vicarious Surgical Inc.,252
+control:FMTOF,FMTOF,1888151,Femto Technologies Inc.,0
+control:CREG,CREG,721693,Smart Powerr Corp.,163
+control:ECPL,ECPL,1356914,ECOPLUS INC,0
+control:NMHI,NMHI,1947861,Nature's Miracle Holding Inc.,1
+control:EPWKF,EPWKF,1900720,EPWK Holdings Ltd.,0
+control:JFIL,JFIL,1517389,"Jubilant Flame International, Ltd",0
+control:FGL,FGL,1989930,Founder Group Ltd,11
+control:CNBX,CNBX,1343009,CNBX Pharmaceuticals Inc.,31
+control:ALUR,ALUR,1964979,"ALLURION TECHNOLOGIES, INC.",0
+control:XAGE,XAGE,1842939,"Longevity Health Holdings, Inc.",0
+control:AOXY,AOXY,352991,ADVANCED OXYGEN TECHNOLOGIES INC,1
+control:ORISF,ORISF,1964664,ORIENTAL RISE HOLDINGS Ltd,0
+control:GRVE,GRVE,918573,GROOVE BOTANICALS INC.,3
+control:MTLK,MTLK,1098462,METALINK LTD,0
+control:FRGT,FRGT,1687542,"Freight Technologies, Inc.",6
+control:GRPS,GRPS,1990446,"Trans American Aquaculture, Inc",54
+control:GPLB,GPLB,1392449,Green Planet Bio Engineering Co. Ltd.,0
+control:PTPI,PTPI,1815903,"Petros Pharmaceuticals, Inc.",2785
+control:GTLL,GTLL,932021,GLOBAL TECHNOLOGIES LTD,571
+control:GBUX,GBUX,1169138,"GIVBUX, INC.",0
+control:GGLXF,GGLXF,800523,GGL RESOURCES CORP.,1
+control:CMBMF,CMBMF,1738177,Cambium Networks Corp,9
+control:STAI,STAI,1994624,ScanTech AI Systems Inc.,1
+control:SVVC,SVVC,1495584,"Firsthand Technology Value Fund, Inc.",5
+control:KUBR,KUBR,1081834,Kuber Resources Corp,0
+control:BMPA,BMPA,1130781,"BMP AI Technologies, Inc.",1
+control:USAM,USAM,1804792,ARES STRATEGIC MINING INC.,14
+control:BHATF,BHATF,1759136,Blue Hat Interactive Entertainment Technology,0
+control:MAXNQ,MAXNQ,1796898,"Maxeon Solar Technologies, Ltd.",26
+control:VISM,VISM,1082733,"VISIUM TECHNOLOGIES, INC.",320
+control:STRG,STRG,1803096,"STARGUIDE GROUP, INC.",7
+control:ETCG,ETCG,1705181,Grayscale Ethereum Classic Trust (ETC),47
+control:ICL,ICL,941221,ICL Group Ltd.,74
+control:SVICY,SVICY,2074157,StorageVault Canada Inc./ADR,0
+control:SXZTY,SXZTY,2135894,"Shanghai Xizhi Technology Co., Ltd./ADR",0
+control:NMT,NMT,897419,NUVEEN MASSACHUSETTS QUALITY MUNICIPAL INCOME FUND,9
+control:TKNZ,TKNZ,2089855,T. Rowe Price Active Crypto ETF,0
+control:SKHY,SKHY,2120882,SK hynix Inc.,284
+control:NMI,NMI,830271,NUVEEN MUNICIPAL INCOME FUND INC,20
+control:LOVI,LOVI,2115191,Live Oak Acquisition Corp. VI,1
+control:NCIQ,NCIQ,2031069,Hashdex Nasdaq CME Crypto Index ETF,0
+control:TSUI,TSUI,2061626,21Shares Sui Staking ETF,0
+control:CCIL,CCIL,2083945,CALM Chain International Ltd,1
+control:SGMIY,SGMIY,2155709,SG Micro Corp/ADR,0
+control:PAXG,PAXG,2076561,Pine Tree Acquisition Corp.,39
+control:TYOEY,TYOEY,2128619,Toyo Engineering Corporation/ADR,0
+control:TTMSF,TTMSF,2132461,Titiminas Silver Inc.,0
+control:XRPZ,XRPZ,2059438,Franklin XRP Trust,0
+control:HFE,HFE,2120204,Hao Feng Group Ltd.,0
+control:WEA,WEA,1163792,WESTERN ASSET PREMIER BOND FUND,4
+control:FHFFY,FHFFY,2082876,Foshan Haitian Flavouring & Food Co Ltd./ADR,0
+control:LPNE,LPNE,2080577,LiPower New Energy Holdings Ltd,0
+control:LEDR,LEDR,2109823,Leader's Advantage Acquisition Corp.,0
+control:NIAA,NIAA,2148245,New Iceland Arctic Acquisition Corp.,0
+control:LCAC,LCAC,2147457,Lower Cross Acquisitions Corp,0
+control:CTNKY,CTNKY,2144751,Capital Tankers Corp./ADR,0
+control:THCLY,THCLY,2064381,"Toho Co., Ltd./ADR",0
+control:GLVPY,GLVPY,2089499,GLENVEAGH PROPERTIES PLC/ADR,0
+control:PSUS,PSUS,2002660,"Pershing Square USA, Ltd.",0
+control:SOLC,SOLC,2041869,Canary Marinade Solana ETF,0
+control:MNZLY,MNZLY,2062807,Mercury NZ Ltd./ADR,0
+control:BAVA,BAVA,2086017,Bitwise Avalanche ETF,5
+control:CHSCP,CHSCP,823277,CHS INC,5
+control:KOF,KOF,910631,COCA COLA FEMSA SAB DE CV,62
+control:GGRPY,GGRPY,2075474,GPT Group/ADR,0
+control:CMPLY,CMPLY,2117197,Com7 PCL/ADR,0
+control:FRLCY,FRLCY,2065932,Freelancer Ltd,48
+control:SIAMY,SIAMY,2138369,Siam Global House Public Co Limited/ADR,0
+control:HQH,HQH,805267,abrdn Healthcare Investors,6
+control:DRIL,DRIL,1851535,Lannister Mining Corp.,20
+control:TCXB,TCXB,2149916,TCGX Acquisition Corp. II,0
+control:HZRBY,HZRBY,2060217,"Horizon Robotics, Inc./ADR",0
+control:MMXGY,MMXGY,2109556,Minimax Group Inc./ADR,0
+control:SWBKY,SWBKY,2098324,Shawbrook Group plc/ADR,0
+control:IDXMF,IDXMF,2067171,IDEX METALS CORP.,0
+control:QETH,QETH,1995569,Invesco Galaxy Ethereum ETF,24
+control:CZZLF,CZZLF,2105038,Cizzle Brands Corp,0
+control:WDSP,WDSP,1813744,"World Scan Project, Inc.",0
+control:BMB,BMB,2125355,"Bamboo Insurance Services, Inc.",25
+control:MGNO,MGNO,2033615,"Magnolia Bancorp, Inc.",0
+control:YHTE,YHTE,2138135,Primagrove Ltd,0
+control:KHOBF,KHOBF,2084698,KHEOBA Ltd,0
+control:PNSB,PNSB,2087419,"PSB Financial, Inc.",0
+control:STSUF,STSUF,2077638,Satsuma Technology PLC,0
+control:EVG,EVG,1287498,Eaton Vance Short Duration Diversified Income Fund,1
+control:SPCX,SPCX,1181412,SPACE EXPLORATION TECHNOLOGIES CORP,519
+control:AGKO,AGKO,2134090,Aggreko Inc.,3
+control:ITHEY,ITHEY,2134539,Ithaca Energy PLC/ADR,0
+control:BDRY,BDRY,1610940,Amplify Commodity Trust,119
+control:MROSY,MROSY,1516535,Melrose Industries Plc/ADR,0
+control:YRD,YRD,1631761,Yiren Digital Ltd.,73
+control:NYB,NYB,2100835,NYB Holdings Ltd,6
+control:POCH,POCH,2085836,"POCHE TECHNOLOGY CO., Ltd",1
+control:GXLM,GXLM,1761325,Grayscale Stellar Lumens Trust (XLM),0
+control:BAGZ,BAGZ,2115027,Cryptex Digital Market Cap ETF,11
+control:ELFTY,ELFTY,2073615,Element Fleet Management Corp./ADR,0
+control:LDXC,LDXC,1985554,Londax Corp.,0
+control:CMBY,CMBY,2123232,Cumberland Farms Ltd,2
+control:THYP,THYP,2090011,21Shares Hyperliquid Staking ETF,0
+control:BDI,BDI,2097508,"Blockfusion Digital Infrastructure, Inc.",63
+control:MNBS,MNBS,2116517,MNBS Acquisition Corp.,0
+control:CGL,CGL,1934387,CGL Logistics Holdings Ltd,27
+control:SIMAU,SIMAU,2014982,SIM Acquisition Corp. I,0
+control:MSB,MSB,65172,MESABI TRUST,103
+control:BDL,BDL,12040,FLANIGANS ENTERPRISES INC,17
+control:MDY,MDY,936958,SPDR S&P MIDCAP 400 ETF TRUST,87
+control:PTMSY,PTMSY,1575356,PT MDS Retailing Tbk/ADR,0
+control:UUU,UUU,102109,"UNIVERSAL SAFETY PRODUCTS, INC.",315
+control:SKYD,SKYD,2041610,Skydance Corp,5
+control:SOEZ,SOEZ,2057388,Franklin Solana Trust,0
+control:MWG,MWG,1941500,Multi Ways Holdings Ltd,3
+control:SVA,SVA,1084201,SINOVAC BIOTECH LTD,109
+control:TEO,TEO,932470,TELECOM ARGENTINA SA,31
+control:DBC,DBC,1328237,Invesco DB Commodity Index Tracking Fund,251
+control:CUPPF,CUPPF,2021989,Super Copper Corp.,0
+control:AMRO,AMRO,2141616,Amaero Inc.,42
+control:PMT,PMT,1464423,PennyMac Mortgage Investment Trust,155
+control:MSBT,MSBT,2103612,Morgan Stanley Bitcoin Trust,1
+control:NEPRY,NEPRY,1747570,NEPI Rockcastle plc/ADR,0
+control:TKOMY,TKOMY,1169486,"TOKIO MARINE HOLDINGS, INC.",16
+control:WELA,WELA,2125056,Wella Co,38
+control:HRIA,HRIA,2131072,Harbour Island Acquisition Corp. I,0
+control:SRALY,SRALY,2134599,Stadler Rail AG/ADR,0
+control:SAPUY,SAPUY,2072563,Saputo Inc./ADR,0
+control:DNCLY,DNCLY,2065660,"DeNA Co., Ltd./ADR",0
+control:CRAUY,CRAUY,2094687,"Chery Automobile Co., Ltd./ADR",0
+control:BEMPY,BEMPY,2137137,Bangkok Expressway & Metro Public Co Limited/ADR,0
+control:IDPEY,IDPEY,2062803,IDP Education Ltd./ADR,0
+control:AFNX,AFNX,2087035,AfterNext Acquisition I Corp.,0
+control:AGD,AGD,1362481,abrdn Global Dynamic Dividend Fund,6
+control:MGF,MGF,811922,ABERDEEN GOVERNMENT MARKETS INCOME FUND,3
+control:MUJ,MUJ,1053988,"BLACKROCK MUNIHOLDINGS NEW JERSEY QUALITY FUND, INC.",2
+control:JRS,JRS,1158289,NUVEEN REAL ESTATE INCOME FUND,11
+control:RCG,RCG,919567,"RENN Fund, Inc.",28
+control:SGOL,SGOL,1450923,abrdn Gold ETF Trust,147
+control:CET,CET,18748,CENTRAL SECURITIES CORP,369
+control:VRMK,VRMK,931182,ERP OPERATING LTD PARTNERSHIP,0
+control:NRR,NRR,2067111,Bitwise NEAR ETF,22
+control:AFNDY,AFNDY,2101973,Allfunds Group PLC./ADR,0
+control:BSOL,BSOL,2045872,Bitwise Solana Staking ETF,0
+control:UVIX,UVIX,1793497,VS Trust,64
+control:VSOL,VSOL,2028541,VanEck Solana ETF,0
+control:NNPEF,NNPEF,1951593,Ninepoint Energy Fund,2
+control:CBPHF,CBPHF,1856491,"Clover Biopharmaceuticals, Ltd.",9
+control:JNGDY,JNGDY,2109559,"Jingdong Industrials, Inc./ADR",0
+control:OBNK,OBNK,2042444,Osprey BONK Trust,1
+control:JTGEY,JTGEY,1472033,"Citibank,N.A./ADR",0
+control:GOSC,GOSC,1858939,Giant Oak Acquisition Corp,0
+control:LNFGY,LNFGY,2140948,Lion Finance Group PLC/ADR,0
+control:SSHBY,SSHBY,2107375,"SBI Shinsei Bank, Limited/ADR",0
+control:BIPH,BIPH,1406234,Brookfield Infrastructure Partners L.P.,6
+control:MDKGY,MDKGY,2098332,Merdeka Gold Resources Tbk PT/ADR,0
+control:ATZIY,ATZIY,2139627,Aritzia Inc./ADR,0
+control:CPXXY,CPXXY,2071911,Capital Power Corp/ADR,0
+control:MIMDF,MIMDF,1920576,MiMedia Holdings Inc.,1
+control:ASR,ASR,1123452,SOUTHEAST AIRPORT GROUP,88
+control:PDSRX,PDSRX,1756404,Principal Real Asset Fund,0
+control:ININ,ININ,2097388,Sin Lian Seng Construction,1
+control:UDN,UDN,1383149,INVESCO DB US DOLLAR INDEX BEARISH FUND,219
+control:RGC,RGC,1829667,Regencell Bioscience Holdings Ltd,65
+control:BTCW,BTCW,1850391,WisdomTree Bitcoin Fund,2
+control:SIVR,SIVR,1450922,abrdn Silver ETF Trust,194
+control:WDS,WDS,844551,WOODSIDE ENERGY GROUP LTD,8
+control:DSRNY,DSRNY,1544088,DiaSorin SpA/ADR,0
+control:BWOW,BWOW,2053791,Bitwise Dogecoin ETF,1
+control:BTZ,BTZ,1379384,BLACKROCK CREDIT ALLOCATION INCOME TRUST,2
+control:SYTN,SYTN,1718728,Syntiant Corp.,2
+control:EZPZ,EZPZ,2033807,Franklin Crypto Trust,197
+control:NRP,NRP,1171486,NATURAL RESOURCE PARTNERS LP,21
+control:IPB,IPB,1267332,MERRILL LYNCH DEPOSITOR INC INDEXPLUS TRUST SERIES 2003-1,0
+control:DBA,DBA,1383082,INVESCO DB AGRICULTURE FUND,334
+control:DBB,DBB,1383084,INVESCO DB BASE METALS FUND,48
+control:DIT,DIT,928465,AMCON DISTRIBUTING CO,46
+control:UTF,UTF,1275617,COHEN & STEERS INFRASTRUCTURE FUND INC,1329
+control:MMD,MMD,1518557,NYLI MacKay DefinedTerm Muni Opportunities Fund,6
+control:HIO,HIO,910068,WESTERN ASSET HIGH INCOME OPPORTUNITY FUND INC.,3
+control:PYT,PYT,1294808,PPLUS Trust Series GSC-2,7
+control:LTCN,LTCN,1732406,Grayscale Litecoin Trust (LTC),46
+control:PMO,PMO,900422,FRANKLIN MUNICIPAL OPPORTUNITIES TRUST,283
+control:USDW,USDW,1977837,MADE IN USA INC.,0
+control:SLXMY,SLXMY,2156636,SILEX MICROSYSTEMS AB/ADR,0
+control:DTRSY,DTRSY,2127860,DATELINE RESOURCES LTD/ADR,0
+control:FRTRY,FRTRY,2098710,"Fortior Technology (Shenzhen) Co., Ltd./ADR",0
+control:RECCY,RECCY,2070570,Reece Limited/ADR,0
+control:HYPG,HYPG,2107730,Grayscale Hyperliquid Staking ETF,0
+control:EAI,EAI,7323,"ENTERGY ARKANSAS, LLC",5
+control:NSNFY,NSNFY,2027166,"Nissin Foods Holdings Co., Ltd./ADR",0
+control:SWAGW,SWAGW,1872525,"Stran & Company, Inc.",13
+control:BPYPP,BPYPP,1545772,Brookfield Property Partners L.P.,4
+control:GJT,GJT,1357660,"STRATS(SM) Trust for Allstate Corp Securities, Series 2006-3",0
+control:THARY,THARY,2133810,Tharisa plc,1
+control:MNTGY,MNTGY,2123346,"Montage Technology Co., Ltd./ADR",0
+control:KXIAY,KXIAY,2053383,Kioxia Holdings Corporation/ADR,0
+control:SNEJF,SNEJF,313838,Sony Group Corp,12
+control:BUDFF,BUDFF,1668717,Anheuser-Busch InBev SA/NV,94
+control:IDEXF,IDEXF,1438656,Industria de Diseno Textil Inditex SA / ADR,0
+control:MBGAF,MBGAF,1067318,DAIMLER AG,1620
+control:TRP,TRP,1232384,TC ENERGY CORP,243
+control:EIPAF,EIPAF,1002242,ENI SPA,13
+control:WEBNF,WEBNF,719245,WESTPAC BANKING CORP,4
+control:DKILF,DKILF,1446519,Daikin Industries Ltd,6
+control:INGVF,INGVF,1039765,ING GROEP NV,7
+control:JDCMF,JDCMF,1549802,"JD.com, Inc.",171
+control:SVNDF,SVNDF,1359519,SEVEN & I HOLDINGS CO LTD,6
+control:MRAAF,MRAAF,1450468,"Murata Manufacturing Co., Ltd./ADR",0
+control:CRARF,CRARF,1279967,CREDIT AGRICOLE S A,0
+control:ANNSF,ANNSF,1700171,Aena S.A./ADR,10
+control:AMSYF,AMSYF,1243429,ArcelorMittal,384
+control:KYOCF,KYOCF,57083,KYOCERA CORP,22
+control:SVYSF,SVYSF,930826,SOLVAY S A /ADR/,0
+control:SHECF,SHECF,1442651,"Shin-Etsu Chemical Co., Ltd.",2
+control:ALMMF,ALMMF,1161611,ALUMINUM CORP OF CHINA LTD,0
+control:DQJCF,DQJCF,1446597,Don Quijote Holdings Co Ltd,5
+control:GPAEF,GPAEF,1347557,Pacific Airport Group,0
+control:NDEKF,NDEKF,353991,NITTO DENKO CORP / ADR/,0
+control:SBMFF,SBMFF,1604982,Sino Biopharmaceutical Limited/ADR,3
+control:CLUS,CLUS,1346287,Cluster Group Holdings Ltd Co,158
+control:UNBLF,UNBLF,1453932,Unibail-Rodamco SE/ADR,1
+control:KOSCF,KOSCF,1668501,Kose Corporation/ADR,0
+control:BCUCF,BCUCF,1581285,Brunello Cucinelli S.p.A./ADR,0
+control:BLFBY,BLFBY,1506721,Balfour Beatty plc/ADR,0
+control:GBTG,GBTG,1820872,"Global Business Travel Group, Inc.",0
+control:DCCPY,DCCPY,1437712,DCC plc,0
+control:TYTMF,TYTMF,1447101,Tokyo Tatemono Co Ltd,0
+control:RYKKF,RYKKF,1592049,Ryohin Keikaku Co/ADR,0
+control:CDGLF,CDGLF,1448611,ComfortDelGro Corp Ltd,0
+control:CENTA,CENTA,887733,CENTRAL GARDEN & PET CO,5
+control:CODQL,CODQL,1770561,Coronado Global Resources Inc.,2
+control:WBHC,WBHC,885275,WILSON BANK HOLDING CO,4
+control:ARZTF,ARZTF,1423210,ARYZTA AG (fka IAWS GROUP PLC),1
+control:LILAK,LILAK,1712184,Liberty Latin America Ltd.,20
+control:GRPFF,GRPFF,912892,"GRUPO TELEVISA, S.A.B.",2
+control:DRSHF,DRSHF,1671541,DroneShield Ltd,15
+control:MTGRF,MTGRF,1537543,MGX Resources Limited/ADR,0
+control:ERLFF,ERLFF,1271554,Entree Resources Ltd.,4
+control:CKDXF,CKDXF,1815620,Opthea Ltd,5
+control:RVRF,RVRF,1641601,River Financial Corp,0
+control:EBRCZ,EBRCZ,1347123,"EBR Systems, Inc.",0
+control:STRS,STRS,885508,STRATUS PROPERTIES INC,19
+control:BTA,BTA,1343793,BlackRock Long-Term Municipal Advantage Trust,10
+control:WALD,WALD,1840199,Waldencast plc,57
+control:SFDL,SFDL,818677,SECURITY FEDERAL CORP,2
+control:ENDI,ENDI,1908984,ENDI Corp.,0
+control:BCTF,BCTF,1668340,"Bancorp 34, Inc.",0
+control:OCGSF,OCGSF,942149,Outcrop Silver & Gold Corp,0
+control:ATEK,ATEK,1882198,Athena Technology Acquisition Corp. II,1
+control:FSEA,FSEA,1943802,"First Seacoast Bancorp, Inc.",0
+control:CULL,CULL,1845799,"Cullman Bancorp, Inc. /MD/",15
+control:NSTS,NSTS,1881592,"NSTS Bancorp, Inc.",0
+control:HSTC,HSTC,797564,"HST Global, Inc.",2
+control:UBOH,UBOH,1087456,UNITED BANCSHARES INC/OH,1
+control:FUUFF,FUUFF,1703118,F3 Uranium Corp.,0
+control:MSSAF,MSSAF,1882464,Metal Sky Star Acquisition Corp,0
+control:VICP,VICP,1468639,"Vicapsys Life Sciences, Inc.",3
+control:GWLL,GWLL,1800373,"GOLDENWELL BIOTECH, INC.",0
+control:MRZLF,MRZLF,1301854,Mirasol Resources Ltd,0
+control:ZIVO,ZIVO,1101026,"Zivo Bioscience, Inc.",50
+control:SFES,SFES,86115,SAFEGUARD SCIENTIFICS INC,1
+control:TAIT,TAIT,942126,TAITRON COMPONENTS INC,31
+control:CARV,CARV,1016178,CARVER BANCORP INC,1258
+control:GLUC,GLUC,1420108,"Glucose Health, Inc.",18
+control:PAXH,PAXH,1350156,PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.,0
+control:FEOVF,FEOVF,936801,OCEANIC IRON ORE CORP,0
+control:XONI,XONI,2040753,"Xtreme One Entertainment, Inc.",0
+control:SWISF,SWISF,1771755,Sekur Private Data Ltd.,60
+control:GWH,GWH,1819438,"ESS Tech, Inc.",506
+control:MVCO,MVCO,924095,"Metavesco, Inc.",0
+control:INNI,INNI,1098482,"Innovaro, Inc.",0
+control:EGLXF,EGLXF,1854233,Enthusiast Gaming Holdings Inc. / Canada,0
+control:DTGI,DTGI,1014052,"Digerati Technologies, Inc.",368
+control:WDLF,WDLF,1281984,"Decentral Life, Inc.",884
+control:BWMG,BWMG,1166708,"Brownie's Marine Group, Inc",51
+control:CANN,CANN,1477009,TREES Corp (Colorado),172
+control:GPLL,GPLL,1883083,"GPL Holdings, Inc.",0
+control:MYCB,MYCB,1556801,"My City Builders, Inc.",0
+control:JFTH,JFTH,1857910,"Japan Food Tech Holdings, Inc.",0
+control:SRMX,SRMX,841533,"SADDLE RANCH MEDIA, INC.",573
+control:SFWJ,SFWJ,1919847,"Software Effective Solutions, Corp.",2
+control:AXIM,AXIM,1514946,"AXIM BIOTECHNOLOGIES, INC.",80
+control:PCYN,PCYN,812306,PROCYON CORP,2
+control:CPWR,CPWR,827099,Ocean Thermal Energy Corp,9
+control:FVTI,FVTI,1626745,"Fortune Valley Treasures, Inc.",0
+control:AKOM,AKOM,1590496,Aerkomm Inc.,0
+control:DREM,DREM,1518336,Dream Homes & Development Corp.,6
+control:BLPG,BLPG,1416697,"Blue Line Protection Group, Inc.",126
+control:APSI,APSI,1553264,AQUA POWER SYSTEMS INC.,10
+control:SHGI,SHGI,1874138,"Sparx Holdings Group, Inc.",9
+control:SHMP,SHMP,1465470,NaturalShrimp Inc,1462
+control:EDGM,EDGM,1652958,"Edgemode, Inc.",1
+control:YGMZF,YGMZF,1782037,MingZhu Logistics Holdings Ltd,5
+control:GWSO,GWSO,1430300,"Global Warming Solutions, Inc.",49
+control:GMBL,GMBL,1451448,"ESPORTS ENTERTAINMENT GROUP, INC.",712
+control:ENDV,ENDV,1528172,"ENDONOVO THERAPEUTICS, INC.",18
+control:KOAN,KOAN,897078,"Resonate Blends, Inc.",19
+control:BSPK,BSPK,1409197,"Bespoke Extracts, Inc.",16
+control:BISA,BISA,918545,BALTIC INTERNATIONAL USA INC,0
+control:NHFOF,NHFOF,1532175,NH Foods Ltd./ADR,0
+control:ABAKF,ABAKF,790500,"ABRDN ASIA-PACIFIC INCOME FUND, INC.",0
+control:IPGLF,IPGLF,1029974,INTERPUMP GROUP SPA /FI,0
+control:DPLMF,DPLMF,1529906,Diploma plc/ADR,0
+control:BCKIF,BCKIF,1516323,Babcock International Group PLC/ADR,1
+control:PREJF,PREJF,911421,PARTNERRE LTD,1
+control:ISADY,ISADY,1608401,ISS A/S / ADR,0
+control:SOARW,SOARW,1853070,"Volato Group, Inc.",0
+control:TWOD,TWOD,1465740,TWO HARBORS INVESTMENT CORP.,22
+control:JPHLF,JPHLF,1665275,"Japan Post Holdings Co., Ltd./ADR",0
+control:LSRCF,LSRCF,1822989,Lasertec Corporation/ADR,0
+control:ADYYF,ADYYF,1788707,Adyen N.V./ADR,4
+control:LIANY,LIANY,1831283,LianBio,2
+control:KATJF,KATJF,2109545,Knowledge Atlas Technology Joint Stock Co Limited/ADR,0
+control:PTAXY,PTAXY,2089174,Paltac Corporation/ADR,0
+control:VTTGF,VTTGF,1729514,VAT Group AG/ADR,0
+control:TGOPF,TGOPF,1078716,3i GROUP PLC,0
+control:RPGRF,RPGRF,1614943,REA Group Limited/ADR,0
+control:SNIRF,SNIRF,1329213,SENIOR PLC,0
+control:MITN,MITN,1514281,"TPG Mortgage Investment Trust, Inc.",0
+control:BSTT,BSTT,1662972,"Blackstone Real Estate Income Trust, Inc.",3
+control:MGRE,MGRE,1004434,"AFFILIATED MANAGERS GROUP, INC.",3
+control:GSCE,GSCE,886982,GOLDMAN SACHS GROUP INC,9947
+control:MFAN,MFAN,1055160,"MFA FINANCIAL, INC.",105
+control:SRGBF,SRGBF,95666,SURUGA BANK LTD/ADR/,0
+control:AGQ,AGQ,1415311,ProShares Trust II,547
+control:LENDX,LENDX,1658645,Stone Ridge Trust V,7
+control:STWI,STWI,1999261,StageWise Strategies Corp.,0
+control:IHICF,IHICF,1567526,IHI Corporation/ADR,0
+control:ANKM,ANKM,1781629,"Ankam, Inc.",1
+control:MESHU,MESHU,2081468,Meshflow Acquisition Corp,0
+control:ATHS,ATHS,1527469,Athene Holding Ltd.,167
+control:PPLC,PPLC,922224,PPL Corp,17
+control:PALOW,PALOW,2101562,PALOMA ACQUISITION CORP I,0
+control:NFTM,NFTM,1345865,Buildablock Corp.,0
+control:NKTPD,NKTPD,2038166,"Nok Therapeutics, Inc.",0
+control:XAEIU,XAEIU,1023458,AEI INCOME & GROWTH FUND XXII LTD PARTNERSHIP,0
+control:MEIUF,MEIUF,1699967,Meitu Inc./ADR,0
+control:GOODN,GOODN,1234006,GLADSTONE COMMERCIAL CORP,19
+control:GGBY,GGBY,1616736,Alpha Investment Inc.,0
+control:FACTU,FACTU,2028935,FACT II Acquisition Corp.,0
+control:MTTN,MTTN,2075109,"Matternet, Inc.",17
+control:SWKHL,SWKHL,1089907,SWK Holdings Corp,0
+control:DAVEW,DAVEW,1841408,Dave Inc./DE,0
+control:KNIH,KNIH,2011134,Kioni Holdings Ltd,1
+control:XAKJ,XAKJ,1128252,"SIPP International Industries, Inc.",8
+control:ZRCN,ZRCN,1901297,ZRCN Inc.,0
+control:DBHL,DBHL,1918080,"Deep Isolation Nuclear, Inc.",0
+control:DHTI,DHTI,725394,"Dalrada Technology Group, Inc.",0
+control:EURBF,EURBF,2106126,Eurobank SA/ADR,0
+control:ELVX,ELVX,2076765,Elventix Technology Corp,0
+control:KYIVW,KYIVW,2062440,Kyivstar Group Ltd.,1
+control:BIDWR,BIDWR,2094919,Tribeca Strategic Acquisition Corp.,0
+control:ZARE,ZARE,1327978,Ares Real Estate Income Trust Inc.,0
+control:LBRA,LBRA,1599407,1847 Holdings LLC,1
+control:SESCW,SESCW,1819142,SES AI Corp,2
+control:ESMR,ESMR,1995920,E-Smart Corp.,0
+control:APXCF,APXCF,2093856,APEX CRITICAL METALS CORP.,0
+control:OKMN,OKMN,1848334,"OKMIN RESOURCES, INC.",0
+control:PMFAX,PMFAX,1723701,PIMCO Flexible Municipal Income Fund,0
+control:BTAIQ,BTAIQ,1720893,"BioXcel Therapeutics, Inc.",18
+control:TDBCP,TDBCP,947263,TORONTO DOMINION BANK,63
+control:MACT,MACT,1957783,"MachTen, Inc.",1
+control:GRTUF,GRTUF,1564538,GRANITE REAL ESTATE INVESTMENT TRUST,3
+control:TICAW,TICAW,2032966,"TIC Solutions, Inc.",0
+control:DRRKF,DRRKF,1705969,dormakaba Holding AG,0
+control:SEPSF,SEPSF,1969766,Asep Medical Holdings Inc.,12
+control:INPAP,INPAP,51434,INTERNATIONAL PAPER CO /NEW/,0
+control:GCGJ,GCGJ,1765048,GUOCHUN INTERNATIONAL INC.,0
+control:RAINW,RAINW,2028293,"Rain Enhancement Technologies Holdco, Inc.",0
+control:MRCIF,MRCIF,1752564,"Mercari, Inc./ADR",0
+control:AMUB,AMUB,1114446,UBS AG,0
+control:LMMY,LMMY,1939937,"Exousia Bio, Inc.",0
+control:SRJN,SRJN,1126956,SPIRE INC,643
+control:NPLY,NPLY,1978111,Naploy Corp.,0
+control:BGFR,BGFR,1722556,BestGofer Inc.,0
+control:HSCT,HSCT,1721056,HOOPS SCOUTING USA,6
+control:HGIT,HGIT,1585101,"HINES GLOBAL INCOME TRUST, INC.",0
+control:NSARO,NSARO,13372,NSTAR ELECTRIC CO,0
+control:RMTHF,RMTHF,876779,MAGIC SOFTWARE ENTERPRISES LTD,0
